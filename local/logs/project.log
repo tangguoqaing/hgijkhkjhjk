@@ -1,0 +1,2031 @@
+2018-04-19T02:53:59.462Z - normal: Load ~/.CocosCreator/settings.json
+2018-04-19T02:53:59.469Z - normal: checking language setting...
+2018-04-19T02:53:59.469Z - normal: Language: zh
+2018-04-19T02:54:01.844Z - success: protocol editor-framework registered
+2018-04-19T02:54:01.844Z - success: protocol app registered
+2018-04-19T02:54:01.844Z - success: protocol theme registered
+2018-04-19T02:54:01.844Z - success: protocol packages registered
+2018-04-19T02:54:01.844Z - success: protocol unpack registerred
+2018-04-19T02:54:01.844Z - success: protocol disable-commonjs registerred
+2018-04-19T02:54:02.099Z - normal: connected!
+2018-04-19T02:54:02.101Z - normal: Check project D:\游戏制作\start_project\start_project
+2018-04-19T02:54:02.104Z - normal: Initializing Cocos2d
+2018-04-19T02:54:02.509Z - normal: Initializing Asset Database
+2018-04-19T02:54:02.585Z - success: protocol uuid registerred
+2018-04-19T02:54:02.585Z - success: protocol db registerred
+2018-04-19T02:54:02.585Z - success: protocol thumbnail registerred
+2018-04-19T02:54:02.585Z - normal: Loading editor/builtin packages
+2018-04-19T02:54:02.615Z - success: anysdk loaded
+2018-04-19T02:54:02.801Z - success: assets loaded
+2018-04-19T02:54:02.804Z - success: builder loaded
+2018-04-19T02:54:02.809Z - success: cocos-analytics loaded
+2018-04-19T02:54:02.815Z - success: console loaded
+2018-04-19T02:54:02.819Z - success: hierarchy loaded
+2018-04-19T02:54:02.823Z - success: inspector loaded
+2018-04-19T02:54:02.825Z - success: keystore loaded
+2018-04-19T02:54:02.829Z - success: node-library loaded
+2018-04-19T02:54:02.831Z - success: package-asset loaded
+2018-04-19T02:54:02.834Z - success: preferences loaded
+2018-04-19T02:54:02.837Z - success: project-exporter loaded
+2018-04-19T02:54:02.864Z - success: project-importer loaded
+2018-04-19T02:54:02.867Z - success: project-settings loaded
+2018-04-19T02:54:02.871Z - success: ui-kit loaded
+2018-04-19T02:54:02.874Z - success: ui-grid loaded
+2018-04-19T02:54:02.878Z - success: scene loaded
+2018-04-19T02:54:02.879Z - success: sprite-editor loaded
+2018-04-19T02:54:02.884Z - success: store loaded
+2018-04-19T02:54:02.893Z - success: timeline loaded
+2018-04-19T02:54:02.893Z - normal: Loading builtin packages
+2018-04-19T02:54:02.896Z - success: asset-db-debugger loaded
+2018-04-19T02:54:02.898Z - success: code-editor loaded
+2018-04-19T02:54:02.898Z - success: color-picker loaded
+2018-04-19T02:54:02.901Z - success: package-manager loaded
+2018-04-19T02:54:02.906Z - success: sdkbox loaded
+2018-04-19T02:54:02.913Z - success: tester loaded
+2018-04-19T02:54:02.917Z - success: ui-kit-preview-extra loaded
+2018-04-19T02:54:02.919Z - success: ui-kit-preview loaded
+2018-04-19T02:54:02.921Z - success: ui-tree loaded
+2018-04-19T02:54:04.708Z - normal: Initializing project D:\游戏制作\start_project\start_project
+2018-04-19T02:54:04.712Z - normal: Loading packages
+2018-04-19T02:54:04.717Z - normal: Watching packages
+2018-04-19T02:54:04.732Z - normal: Run Application
+2018-04-19T02:54:05.863Z - success: preview server running at http://localhost:7457
+2018-04-19T02:54:12.531Z - normal: 1.8.2
+2018-04-19T03:03:16.913Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-04-19T03:03:16.916Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-04-19T03:03:16.917Z - normal: Simulator: FRAME SCALE = 1.00
+2018-04-19T03:03:17.844Z - normal: Simulator: Ready for GLSL
+2018-04-19T03:03:17.844Z - normal: Simulator: Ready for OpenGL 2.0
+2018-04-19T03:03:17.866Z - normal: Simulator: 
+2018-04-19T03:03:17.866Z - normal: Simulator: {
+2018-04-19T03:03:17.866Z - normal: Simulator: 	gl.version: 4.5.0 NVIDIA 369.09
+2018-04-19T03:03:17.866Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-04-19T03:03:17.867Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-04-19T03:03:17.867Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-04-19T03:03:17.867Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-04-19T03:03:17.868Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-04-19T03:03:17.868Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-04-19T03:03:17.868Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-04-19T03:03:17.868Z - normal: Simulator: 	gl.vendor: NVIDIA Corporation
+2018-04-19T03:03:17.868Z - normal: Simulator: 	gl.renderer: GeForce GTX 950M/PCIe/SSE2
+2018-04-19T03:03:17.868Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-04-19T03:03:17.869Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-04-19T03:03:17.869Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-04-19T03:03:17.869Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-04-19T03:03:17.869Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-04-19T03:03:17.869Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-04-19T03:03:17.869Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-04-19T03:03:17.870Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-04-19T03:03:17.871Z - normal: Simulator: }
+2018-04-19T03:03:17.873Z - normal: Simulator: 
+2018-04-19T03:03:17.874Z - normal: Simulator: 
+2018-04-19T03:03:17.874Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-04-19T03:03:17.896Z - normal: Simulator: Project Config:
+2018-04-19T03:03:17.897Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-04-19T03:03:17.897Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-04-19T03:03:17.897Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-04-19T03:03:17.897Z - normal: Simulator:     frame size: 960 x 640
+2018-04-19T03:03:17.897Z - normal: Simulator:     frame scale: 1.00
+2018-04-19T03:03:17.898Z - normal: Simulator:     show console: NO
+2018-04-19T03:03:17.898Z - normal: Simulator:     write debug log: NO ()
+2018-04-19T03:03:17.898Z - normal: Simulator:     listen: 
+2018-04-19T03:03:17.899Z - normal: Simulator:     debugger: none
+2018-04-19T03:03:17.899Z - normal: Simulator:     add searching path:
+2018-04-19T03:03:17.899Z - normal: Simulator: 
+2018-04-19T03:03:17.899Z - normal: Simulator: 
+2018-04-19T03:03:17.899Z - normal: Simulator: 
+2018-04-19T03:03:17.900Z - normal: Simulator: ------------------------------------------------
+2018-04-19T03:03:17.900Z - normal: Simulator: LOAD Js FILE: main.js
+2018-04-19T03:03:17.901Z - normal: Simulator: ------------------------------------------------
+2018-04-19T03:03:17.901Z - normal: Simulator: D/jswrapper (364): Initializing V8, version: 6.0.286.52
+2018-04-19T03:03:18.392Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-04-19T03:03:18.397Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-04-19T03:03:18.397Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-04-19T03:03:18.797Z - normal: Simulator: D/jswrapper (125): JS: Cocos2d-x-lite v1.8.2
+2018-04-19T03:03:19.118Z - normal: Simulator: iShow!
+2018-04-19T03:03:19.347Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 2.245999999999981ms
+2018-04-19T03:03:19.352Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.20199999999999818ms
+2018-04-19T03:03:19.352Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 0.17700000000002092ms
+2018-04-19T03:03:19.354Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.012999999999919964ms
+2018-04-19T03:03:19.364Z - normal: Simulator: D/jswrapper (125): JS: Activate: 10.67100000000005ms
+2018-04-19T03:03:19.992Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:03:19.993Z - normal: Simulator: STACK:
+2018-04-19T03:03:19.993Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:03:19.993Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0D917418) failed!
+2018-04-19T03:03:20.594Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:03:20.594Z - normal: Simulator: STACK:
+2018-04-19T03:03:20.594Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:03:20.595Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0D917418) failed!
+2018-04-19T03:03:21.183Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:03:21.184Z - normal: Simulator: STACK:
+2018-04-19T03:03:21.184Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:03:21.185Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0D917418) failed!
+2018-04-19T03:03:21.783Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:03:21.783Z - normal: Simulator: STACK:
+2018-04-19T03:03:21.783Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:03:21.783Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0D917418) failed!
+2018-04-19T03:03:22.383Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:03:22.383Z - normal: Simulator: STACK:
+2018-04-19T03:03:22.383Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:03:22.384Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0D917418) failed!
+2018-04-19T03:03:22.983Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:03:22.983Z - normal: Simulator: STACK:
+2018-04-19T03:03:22.984Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:03:22.984Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0D917418) failed!
+2018-04-19T03:03:23.583Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:03:23.583Z - normal: Simulator: STACK:
+2018-04-19T03:03:23.584Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:03:23.584Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0D917418) failed!
+2018-04-19T03:03:24.183Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:03:24.183Z - normal: Simulator: STACK:
+2018-04-19T03:03:24.184Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:03:24.184Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0D917418) failed!
+2018-04-19T03:03:24.783Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:03:24.783Z - normal: Simulator: STACK:
+2018-04-19T03:03:24.784Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:03:24.784Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0D917418) failed!
+2018-04-19T03:03:25.383Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:03:25.384Z - normal: Simulator: STACK:
+2018-04-19T03:03:25.384Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:03:25.384Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0D917418) failed!
+2018-04-19T03:03:25.983Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:03:25.984Z - normal: Simulator: STACK:
+2018-04-19T03:03:25.984Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:03:25.984Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0D917418) failed!
+2018-04-19T03:03:26.583Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:03:26.584Z - normal: Simulator: STACK:
+2018-04-19T03:03:26.584Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:03:26.584Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0D917418) failed!
+2018-04-19T03:03:26.787Z - normal: Simulator: D/jswrapper (447): ScriptEngine::cleanup begin ...
+2018-04-19T03:03:26.787Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 62, all objects: 345
+2018-04-19T03:03:26.832Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 41, all objects: 324
+2018-04-19T03:03:26.833Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 41, all objects: 324
+2018-04-19T03:03:26.871Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 41, all objects: 324
+2018-04-19T03:03:26.873Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-04-19T03:03:26.915Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 0, all objects: 0
+2018-04-19T03:03:26.915Z - normal: Simulator: D/jswrapper (480): Starting to cleanup dragonbones object, count: 0
+2018-04-19T03:03:26.916Z - normal: Simulator: D/jswrapper (499): After first cleanup, dragonbones object remained count: 0
+2018-04-19T03:03:26.916Z - normal: Simulator: D/jswrapper (515): After second cleanup, dragonbones object remained count: 0
+2018-04-19T03:03:26.917Z - normal: Simulator: D/jswrapper (510): ScriptEngine::cleanup end ...
+2018-04-19T03:03:57.027Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-04-19T03:03:57.029Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-04-19T03:03:57.029Z - normal: Simulator: FRAME SCALE = 1.00
+2018-04-19T03:03:58.007Z - normal: Simulator: Ready for GLSL
+2018-04-19T03:03:58.007Z - normal: Simulator: Ready for OpenGL 2.0
+2018-04-19T03:03:58.007Z - normal: Simulator: 
+2018-04-19T03:03:58.007Z - normal: Simulator: {
+2018-04-19T03:03:58.007Z - normal: Simulator: 	gl.version: 4.5.0 NVIDIA 369.09
+2018-04-19T03:03:58.008Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-04-19T03:03:58.008Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-04-19T03:03:58.009Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-04-19T03:03:58.009Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-04-19T03:03:58.009Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-04-19T03:03:58.010Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-04-19T03:03:58.010Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-04-19T03:03:58.010Z - normal: Simulator: 	gl.vendor: NVIDIA Corporation
+2018-04-19T03:03:58.013Z - normal: Simulator: 	gl.renderer: GeForce GTX 950M/PCIe/SSE2
+2018-04-19T03:03:58.013Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-04-19T03:03:58.013Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-04-19T03:03:58.013Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-04-19T03:03:58.015Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-04-19T03:03:58.016Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-04-19T03:03:58.016Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-04-19T03:03:58.016Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-04-19T03:03:58.016Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-04-19T03:03:58.016Z - normal: Simulator: }
+2018-04-19T03:03:58.016Z - normal: Simulator: 
+2018-04-19T03:03:58.017Z - normal: Simulator: 
+2018-04-19T03:03:58.017Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-04-19T03:03:58.017Z - normal: Simulator: Project Config:
+2018-04-19T03:03:58.017Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-04-19T03:03:58.017Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-04-19T03:03:58.017Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-04-19T03:03:58.017Z - normal: Simulator:     frame size: 960 x 640
+2018-04-19T03:03:58.017Z - normal: Simulator:     frame scale: 1.00
+2018-04-19T03:03:58.017Z - normal: Simulator:     show console: NO
+2018-04-19T03:03:58.018Z - normal: Simulator:     write debug log: NO ()
+2018-04-19T03:03:58.018Z - normal: Simulator:     listen: 
+2018-04-19T03:03:58.018Z - normal: Simulator:     debugger: none
+2018-04-19T03:03:58.019Z - normal: Simulator:     add searching path:
+2018-04-19T03:03:58.019Z - normal: Simulator: 
+2018-04-19T03:03:58.019Z - normal: Simulator: 
+2018-04-19T03:03:58.019Z - normal: Simulator: 
+2018-04-19T03:03:58.019Z - normal: Simulator: ------------------------------------------------
+2018-04-19T03:03:58.020Z - normal: Simulator: LOAD Js FILE: main.js
+2018-04-19T03:03:58.021Z - normal: Simulator: ------------------------------------------------
+2018-04-19T03:03:58.022Z - normal: Simulator: D/jswrapper (364): Initializing V8, version: 6.0.286.52
+2018-04-19T03:03:58.427Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-04-19T03:03:58.430Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-04-19T03:03:58.430Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-04-19T03:03:58.546Z - normal: Simulator: D/jswrapper (125): JS: Cocos2d-x-lite v1.8.2
+2018-04-19T03:03:58.766Z - normal: Simulator: iShow!
+2018-04-19T03:03:58.999Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 2.1410000000000764ms
+2018-04-19T03:03:59.014Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.20400000000006457ms
+2018-04-19T03:03:59.015Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 0.12599999999997635ms
+2018-04-19T03:03:59.015Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.011999999999943611ms
+2018-04-19T03:03:59.016Z - normal: Simulator: D/jswrapper (125): JS: Activate: 8.076000000000022ms
+2018-04-19T03:03:59.639Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:03:59.640Z - normal: Simulator: STACK:
+2018-04-19T03:03:59.640Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:03:59.640Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0B82D9B0) failed!
+2018-04-19T03:03:59.640Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:03:59.640Z - normal: Simulator: STACK:
+2018-04-19T03:03:59.641Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:03:59.641Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0B82D6F0) failed!
+2018-04-19T03:04:00.245Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:04:00.245Z - normal: Simulator: STACK:
+2018-04-19T03:04:00.245Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:04:00.246Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0B82D9B0) failed!
+2018-04-19T03:04:00.246Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:04:00.246Z - normal: Simulator: STACK:
+2018-04-19T03:04:00.246Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:04:00.246Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0B82D6F0) failed!
+2018-04-19T03:04:00.873Z - normal: Simulator: D/jswrapper (447): ScriptEngine::cleanup begin ...
+2018-04-19T03:04:00.873Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 68, all objects: 353
+2018-04-19T03:04:00.918Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 47, all objects: 332
+2018-04-19T03:04:00.918Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 47, all objects: 332
+2018-04-19T03:04:00.963Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 47, all objects: 332
+2018-04-19T03:04:00.965Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-04-19T03:04:01.001Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 0, all objects: 0
+2018-04-19T03:04:01.018Z - normal: Simulator: D/jswrapper (480): Starting to cleanup dragonbones object, count: 0
+2018-04-19T03:04:01.019Z - normal: Simulator: D/jswrapper (499): After first cleanup, dragonbones object remained count: 0
+2018-04-19T03:04:01.019Z - normal: Simulator: D/jswrapper (515): After second cleanup, dragonbones object remained count: 0
+2018-04-19T03:04:01.019Z - normal: Simulator: D/jswrapper (510): ScriptEngine::cleanup end ...
+2018-04-19T03:06:05.980Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-04-19T03:06:05.984Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-04-19T03:06:05.985Z - normal: Simulator: FRAME SCALE = 1.00
+2018-04-19T03:06:07.065Z - normal: Simulator: Ready for GLSL
+2018-04-19T03:06:07.065Z - normal: Simulator: Ready for OpenGL 2.0
+2018-04-19T03:06:07.065Z - normal: Simulator: 
+2018-04-19T03:06:07.065Z - normal: Simulator: {
+2018-04-19T03:06:07.065Z - normal: Simulator: 	gl.version: 4.5.0 NVIDIA 369.09
+2018-04-19T03:06:07.066Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-04-19T03:06:07.066Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-04-19T03:06:07.066Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-04-19T03:06:07.066Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-04-19T03:06:07.067Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-04-19T03:06:07.067Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-04-19T03:06:07.067Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-04-19T03:06:07.067Z - normal: Simulator: 	gl.vendor: NVIDIA Corporation
+2018-04-19T03:06:07.067Z - normal: Simulator: 	gl.renderer: GeForce GTX 950M/PCIe/SSE2
+2018-04-19T03:06:07.067Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-04-19T03:06:07.067Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-04-19T03:06:07.068Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-04-19T03:06:07.068Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-04-19T03:06:07.068Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-04-19T03:06:07.068Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-04-19T03:06:07.068Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-04-19T03:06:07.068Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-04-19T03:06:07.068Z - normal: Simulator: }
+2018-04-19T03:06:07.068Z - normal: Simulator: 
+2018-04-19T03:06:07.069Z - normal: Simulator: 
+2018-04-19T03:06:07.069Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-04-19T03:06:07.069Z - normal: Simulator: Project Config:
+2018-04-19T03:06:07.069Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-04-19T03:06:07.069Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-04-19T03:06:07.069Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-04-19T03:06:07.069Z - normal: Simulator:     frame size: 960 x 640
+2018-04-19T03:06:07.070Z - normal: Simulator:     frame scale: 1.00
+2018-04-19T03:06:07.070Z - normal: Simulator:     show console: NO
+2018-04-19T03:06:07.070Z - normal: Simulator:     write debug log: NO ()
+2018-04-19T03:06:07.070Z - normal: Simulator:     listen: 
+2018-04-19T03:06:07.070Z - normal: Simulator:     debugger: none
+2018-04-19T03:06:07.070Z - normal: Simulator:     add searching path:
+2018-04-19T03:06:07.070Z - normal: Simulator: 
+2018-04-19T03:06:07.071Z - normal: Simulator: 
+2018-04-19T03:06:07.072Z - normal: Simulator: 
+2018-04-19T03:06:07.072Z - normal: Simulator: ------------------------------------------------
+2018-04-19T03:06:07.073Z - normal: Simulator: LOAD Js FILE: main.js
+2018-04-19T03:06:07.073Z - normal: Simulator: ------------------------------------------------
+2018-04-19T03:06:07.074Z - normal: Simulator: D/jswrapper (364): Initializing V8, version: 6.0.286.52
+2018-04-19T03:06:07.536Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-04-19T03:06:07.546Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-04-19T03:06:07.547Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-04-19T03:06:07.670Z - normal: Simulator: D/jswrapper (125): JS: Cocos2d-x-lite v1.8.2
+2018-04-19T03:06:07.899Z - normal: Simulator: iShow!
+2018-04-19T03:06:08.115Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 1.40199999999993ms
+2018-04-19T03:06:08.122Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.3079999999999927ms
+2018-04-19T03:06:08.122Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 0.15399999999999636ms
+2018-04-19T03:06:08.122Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.05700000000001637ms
+2018-04-19T03:06:08.135Z - normal: Simulator: D/jswrapper (125): JS: Activate: 9.067000000000007ms
+2018-04-19T03:06:08.752Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:06:08.752Z - normal: Simulator: STACK:
+2018-04-19T03:06:08.752Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:06:08.752Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BA2CA48) failed!
+2018-04-19T03:06:08.753Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:06:08.753Z - normal: Simulator: STACK:
+2018-04-19T03:06:08.755Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:06:08.755Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BA2C3C0) failed!
+2018-04-19T03:06:09.352Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:06:09.354Z - normal: Simulator: STACK:
+2018-04-19T03:06:09.354Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:06:09.355Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BA2CA48) failed!
+2018-04-19T03:06:09.355Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:06:09.355Z - normal: Simulator: STACK:
+2018-04-19T03:06:09.355Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:06:09.355Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BA2C3C0) failed!
+2018-04-19T03:06:09.952Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:06:09.952Z - normal: Simulator: STACK:
+2018-04-19T03:06:09.952Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:06:09.952Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BA2CA48) failed!
+2018-04-19T03:06:09.953Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:06:09.953Z - normal: Simulator: STACK:
+2018-04-19T03:06:09.953Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:06:09.955Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BA2C3C0) failed!
+2018-04-19T03:06:10.551Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:06:10.552Z - normal: Simulator: STACK:
+2018-04-19T03:06:10.552Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:06:10.552Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BA2CA48) failed!
+2018-04-19T03:06:10.552Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:06:10.552Z - normal: Simulator: STACK:
+2018-04-19T03:06:10.553Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:06:10.554Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BA2C3C0) failed!
+2018-04-19T03:06:11.163Z - normal: Simulator: D/jswrapper (447): ScriptEngine::cleanup begin ...
+2018-04-19T03:06:11.163Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 66, all objects: 351
+2018-04-19T03:06:11.203Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 46, all objects: 331
+2018-04-19T03:06:11.205Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 46, all objects: 331
+2018-04-19T03:06:11.244Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 46, all objects: 331
+2018-04-19T03:06:11.257Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-04-19T03:06:11.312Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 0, all objects: 0
+2018-04-19T03:06:11.312Z - normal: Simulator: D/jswrapper (480): Starting to cleanup dragonbones object, count: 0
+2018-04-19T03:06:11.312Z - normal: Simulator: D/jswrapper (499): After first cleanup, dragonbones object remained count: 0
+2018-04-19T03:06:11.312Z - normal: Simulator: D/jswrapper (515): After second cleanup, dragonbones object remained count: 0
+2018-04-19T03:06:11.313Z - normal: Simulator: D/jswrapper (510): ScriptEngine::cleanup end ...
+2018-04-19T03:08:01.850Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-04-19T03:08:01.853Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-04-19T03:08:01.854Z - normal: Simulator: FRAME SCALE = 1.00
+2018-04-19T03:08:02.744Z - normal: Simulator: Ready for GLSL
+2018-04-19T03:08:02.744Z - normal: Simulator: Ready for OpenGL 2.0
+2018-04-19T03:08:02.744Z - normal: Simulator: 
+2018-04-19T03:08:02.745Z - normal: Simulator: {
+2018-04-19T03:08:02.745Z - normal: Simulator: 	gl.version: 4.5.0 NVIDIA 369.09
+2018-04-19T03:08:02.745Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-04-19T03:08:02.746Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-04-19T03:08:02.746Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-04-19T03:08:02.746Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-04-19T03:08:02.746Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-04-19T03:08:02.747Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-04-19T03:08:02.747Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-04-19T03:08:02.747Z - normal: Simulator: 	gl.vendor: NVIDIA Corporation
+2018-04-19T03:08:02.747Z - normal: Simulator: 	gl.renderer: GeForce GTX 950M/PCIe/SSE2
+2018-04-19T03:08:02.747Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-04-19T03:08:02.747Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-04-19T03:08:02.747Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-04-19T03:08:02.748Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-04-19T03:08:02.748Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-04-19T03:08:02.748Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-04-19T03:08:02.748Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-04-19T03:08:02.748Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-04-19T03:08:02.748Z - normal: Simulator: }
+2018-04-19T03:08:02.748Z - normal: Simulator: 
+2018-04-19T03:08:02.748Z - normal: Simulator: 
+2018-04-19T03:08:02.749Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-04-19T03:08:02.749Z - normal: Simulator: Project Config:
+2018-04-19T03:08:02.749Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-04-19T03:08:02.749Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-04-19T03:08:02.749Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-04-19T03:08:02.749Z - normal: Simulator:     frame size: 960 x 640
+2018-04-19T03:08:02.749Z - normal: Simulator:     frame scale: 1.00
+2018-04-19T03:08:02.749Z - normal: Simulator:     show console: NO
+2018-04-19T03:08:02.749Z - normal: Simulator:     write debug log: NO ()
+2018-04-19T03:08:02.750Z - normal: Simulator:     listen: 
+2018-04-19T03:08:02.750Z - normal: Simulator:     debugger: none
+2018-04-19T03:08:02.750Z - normal: Simulator:     add searching path:
+2018-04-19T03:08:02.750Z - normal: Simulator: 
+2018-04-19T03:08:02.750Z - normal: Simulator: 
+2018-04-19T03:08:02.750Z - normal: Simulator: 
+2018-04-19T03:08:02.750Z - normal: Simulator: ------------------------------------------------
+2018-04-19T03:08:02.750Z - normal: Simulator: LOAD Js FILE: main.js
+2018-04-19T03:08:02.750Z - normal: Simulator: ------------------------------------------------
+2018-04-19T03:08:02.751Z - normal: Simulator: D/jswrapper (364): Initializing V8, version: 6.0.286.52
+2018-04-19T03:08:03.183Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-04-19T03:08:03.186Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-04-19T03:08:03.186Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-04-19T03:08:03.302Z - normal: Simulator: D/jswrapper (125): JS: Cocos2d-x-lite v1.8.2
+2018-04-19T03:08:03.536Z - normal: Simulator: iShow!
+2018-04-19T03:08:03.767Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 2.0119999999999436ms
+2018-04-19T03:08:03.788Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.29899999999997817ms
+2018-04-19T03:08:03.788Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 0.1409999999999627ms
+2018-04-19T03:08:03.788Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.011999999999943611ms
+2018-04-19T03:08:03.788Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught Error: cc.Node.runAction(): action must be non-null, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:08:03.789Z - normal: Simulator: STACK:
+2018-04-19T03:08:03.789Z - normal: Simulator: [0]cc.assert@src/jsb_polyfill.js:56
+2018-04-19T03:08:03.789Z - normal: Simulator: [1]anonymous@src/jsb_polyfill.js:81
+2018-04-19T03:08:03.789Z - normal: Simulator: [2]anonymous@src/jsb_polyfill.js:98
+2018-04-19T03:08:03.789Z - normal: Simulator: [3]cc.assertID@src/jsb_polyfill.js:86
+2018-04-19T03:08:03.790Z - normal: Simulator: [4]15.cc.Class.runAction@src/jsb_polyfill.js:2796
+2018-04-19T03:08:03.790Z - normal: Simulator: [5]onLoad@assets/scripts/Player.js:66
+2018-04-19T03:08:03.790Z - normal: Simulator: [6]anonymous@(no filename):3
+2018-04-19T03:08:03.790Z - normal: Simulator: [7]invoke@src/jsb_polyfill.js:4611
+2018-04-19T03:08:03.792Z - normal: Simulator: [8]activateNode@src/jsb_polyfill.js:13682
+2018-04-19T03:08:03.792Z - normal: Simulator: [9]_activate@src/jsb_polyfill.js:3259
+2018-04-19T03:08:03.792Z - normal: Simulator: [10]runSceneImmediate@src/jsb_polyfill.js:25422
+2018-04-19T03:08:03.792Z - normal: Simulator: [11]anonymous@main.js:53
+2018-04-19T03:08:03.793Z - normal: Simulator: [12]anonymous@src/jsb_polyfill.js:16043
+2018-04-19T03:08:03.793Z - normal: Simulator: [13]anonymous@src/jsb_polyfill.js:11958
+2018-04-19T03:08:03.793Z - normal: Simulator: [14]anonymous@src/jsb_polyfill.js:19559
+2018-04-19T03:08:03.793Z - normal: Simulator: [15]onceWrapper@src/jsb_polyfill.js:11015
+2018-04-19T03:08:03.794Z - normal: Simulator: [16]76.EventListeners.invoke@src/jsb_polyfill.js:10860
+2018-04-19T03:08:03.794Z - normal: Simulator: [17]77.proto.emit@src/jsb_polyfill.js:11042
+2018-04-19T03:08:03.794Z - normal: Simulator: [18]callback@src/jsb_polyfill.js:25556
+2018-04-19T03:08:03.794Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BC1CFE0) failed!
+2018-04-19T03:08:12.122Z - normal: Simulator: D/jswrapper (447): ScriptEngine::cleanup begin ...
+2018-04-19T03:08:12.122Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 54, all objects: 335
+2018-04-19T03:08:12.168Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 34, all objects: 315
+2018-04-19T03:08:12.168Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 34, all objects: 315
+2018-04-19T03:08:12.216Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 34, all objects: 315
+2018-04-19T03:08:12.218Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-04-19T03:08:12.259Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 0, all objects: 0
+2018-04-19T03:08:12.264Z - normal: Simulator: D/jswrapper (480): Starting to cleanup dragonbones object, count: 0
+2018-04-19T03:08:12.264Z - normal: Simulator: D/jswrapper (499): After first cleanup, dragonbones object remained count: 0
+2018-04-19T03:08:12.264Z - normal: Simulator: D/jswrapper (515): After second cleanup, dragonbones object remained count: 0
+2018-04-19T03:08:12.265Z - normal: Simulator: D/jswrapper (510): ScriptEngine::cleanup end ...
+2018-04-19T03:08:34.084Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-04-19T03:08:34.086Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-04-19T03:08:34.086Z - normal: Simulator: FRAME SCALE = 1.00
+2018-04-19T03:08:34.977Z - normal: Simulator: Ready for GLSL
+2018-04-19T03:08:34.977Z - normal: Simulator: Ready for OpenGL 2.0
+2018-04-19T03:08:34.977Z - normal: Simulator: 
+2018-04-19T03:08:34.977Z - normal: Simulator: {
+2018-04-19T03:08:34.978Z - normal: Simulator: 	gl.version: 4.5.0 NVIDIA 369.09
+2018-04-19T03:08:34.978Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-04-19T03:08:34.978Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-04-19T03:08:34.979Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-04-19T03:08:34.979Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-04-19T03:08:34.979Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-04-19T03:08:34.979Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-04-19T03:08:34.979Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-04-19T03:08:34.980Z - normal: Simulator: 	gl.vendor: NVIDIA Corporation
+2018-04-19T03:08:34.980Z - normal: Simulator: 	gl.renderer: GeForce GTX 950M/PCIe/SSE2
+2018-04-19T03:08:34.980Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-04-19T03:08:34.980Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-04-19T03:08:34.980Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-04-19T03:08:34.980Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-04-19T03:08:34.981Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-04-19T03:08:34.981Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-04-19T03:08:34.981Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-04-19T03:08:34.981Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-04-19T03:08:34.981Z - normal: Simulator: }
+2018-04-19T03:08:34.981Z - normal: Simulator: 
+2018-04-19T03:08:34.981Z - normal: Simulator: 
+2018-04-19T03:08:34.981Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-04-19T03:08:34.982Z - normal: Simulator: Project Config:
+2018-04-19T03:08:34.982Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-04-19T03:08:34.982Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-04-19T03:08:34.982Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-04-19T03:08:34.982Z - normal: Simulator:     frame size: 960 x 640
+2018-04-19T03:08:34.982Z - normal: Simulator:     frame scale: 1.00
+2018-04-19T03:08:34.982Z - normal: Simulator:     show console: NO
+2018-04-19T03:08:34.983Z - normal: Simulator:     write debug log: NO ()
+2018-04-19T03:08:34.983Z - normal: Simulator:     listen: 
+2018-04-19T03:08:34.983Z - normal: Simulator:     debugger: none
+2018-04-19T03:08:34.983Z - normal: Simulator:     add searching path:
+2018-04-19T03:08:34.983Z - normal: Simulator: 
+2018-04-19T03:08:34.983Z - normal: Simulator: 
+2018-04-19T03:08:34.983Z - normal: Simulator: 
+2018-04-19T03:08:34.985Z - normal: Simulator: ------------------------------------------------
+2018-04-19T03:08:34.985Z - normal: Simulator: LOAD Js FILE: main.js
+2018-04-19T03:08:34.985Z - normal: Simulator: ------------------------------------------------
+2018-04-19T03:08:34.985Z - normal: Simulator: D/jswrapper (364): Initializing V8, version: 6.0.286.52
+2018-04-19T03:08:35.422Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-04-19T03:08:35.424Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-04-19T03:08:35.424Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-04-19T03:08:35.540Z - normal: Simulator: D/jswrapper (125): JS: Cocos2d-x-lite v1.8.2
+2018-04-19T03:08:35.776Z - normal: Simulator: iShow!
+2018-04-19T03:08:35.995Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 1.8380000000000791ms
+2018-04-19T03:08:36.001Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.20699999999999363ms
+2018-04-19T03:08:36.001Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 0.1290000000000191ms
+2018-04-19T03:08:36.001Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.009999999999990905ms
+2018-04-19T03:08:36.019Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught Error: cc.Node.runAction(): action must be non-null, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:08:36.019Z - normal: Simulator: STACK:
+2018-04-19T03:08:36.020Z - normal: Simulator: [0]cc.assert@src/jsb_polyfill.js:56
+2018-04-19T03:08:36.020Z - normal: Simulator: [1]anonymous@src/jsb_polyfill.js:81
+2018-04-19T03:08:36.021Z - normal: Simulator: [2]anonymous@src/jsb_polyfill.js:98
+2018-04-19T03:08:36.021Z - normal: Simulator: [3]cc.assertID@src/jsb_polyfill.js:86
+2018-04-19T03:08:36.021Z - normal: Simulator: [4]15.cc.Class.runAction@src/jsb_polyfill.js:2796
+2018-04-19T03:08:36.022Z - normal: Simulator: [5]onLoad@assets/scripts/Player.js:66
+2018-04-19T03:08:36.022Z - normal: Simulator: [6]anonymous@(no filename):3
+2018-04-19T03:08:36.022Z - normal: Simulator: [7]invoke@src/jsb_polyfill.js:4611
+2018-04-19T03:08:36.023Z - normal: Simulator: [8]activateNode@src/jsb_polyfill.js:13682
+2018-04-19T03:08:36.023Z - normal: Simulator: [9]_activate@src/jsb_polyfill.js:3259
+2018-04-19T03:08:36.023Z - normal: Simulator: [10]runSceneImmediate@src/jsb_polyfill.js:25422
+2018-04-19T03:08:36.023Z - normal: Simulator: [11]anonymous@main.js:53
+2018-04-19T03:08:36.023Z - normal: Simulator: [12]anonymous@src/jsb_polyfill.js:16043
+2018-04-19T03:08:36.023Z - normal: Simulator: [13]anonymous@src/jsb_polyfill.js:11958
+2018-04-19T03:08:36.024Z - normal: Simulator: [14]anonymous@src/jsb_polyfill.js:19559
+2018-04-19T03:08:36.024Z - normal: Simulator: [15]onceWrapper@src/jsb_polyfill.js:11015
+2018-04-19T03:08:36.024Z - normal: Simulator: [16]76.EventListeners.invoke@src/jsb_polyfill.js:10860
+2018-04-19T03:08:36.024Z - normal: Simulator: [17]77.proto.emit@src/jsb_polyfill.js:11042
+2018-04-19T03:08:36.024Z - normal: Simulator: [18]callback@src/jsb_polyfill.js:25556
+2018-04-19T03:08:36.024Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BBDB788) failed!
+2018-04-19T03:08:37.978Z - normal: Simulator: D/jswrapper (447): ScriptEngine::cleanup begin ...
+2018-04-19T03:08:37.978Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 54, all objects: 335
+2018-04-19T03:08:38.024Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 34, all objects: 315
+2018-04-19T03:08:38.024Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 34, all objects: 315
+2018-04-19T03:08:38.062Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 34, all objects: 315
+2018-04-19T03:08:38.063Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-04-19T03:08:38.116Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 0, all objects: 0
+2018-04-19T03:08:38.116Z - normal: Simulator: D/jswrapper (480): Starting to cleanup dragonbones object, count: 0
+2018-04-19T03:08:38.117Z - normal: Simulator: D/jswrapper (499): After first cleanup, dragonbones object remained count: 0
+2018-04-19T03:08:38.117Z - normal: Simulator: D/jswrapper (515): After second cleanup, dragonbones object remained count: 0
+2018-04-19T03:08:38.118Z - normal: Simulator: D/jswrapper (510): ScriptEngine::cleanup end ...
+2018-04-19T03:09:18.341Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-04-19T03:09:18.344Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-04-19T03:09:18.344Z - normal: Simulator: FRAME SCALE = 1.00
+2018-04-19T03:09:19.217Z - normal: Simulator: Ready for GLSL
+2018-04-19T03:09:19.217Z - normal: Simulator: Ready for OpenGL 2.0
+2018-04-19T03:09:19.217Z - normal: Simulator: 
+2018-04-19T03:09:19.217Z - normal: Simulator: {
+2018-04-19T03:09:19.217Z - normal: Simulator: 	gl.version: 4.5.0 NVIDIA 369.09
+2018-04-19T03:09:19.217Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-04-19T03:09:19.218Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-04-19T03:09:19.218Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-04-19T03:09:19.218Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-04-19T03:09:19.218Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-04-19T03:09:19.218Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-04-19T03:09:19.218Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-04-19T03:09:19.218Z - normal: Simulator: 	gl.vendor: NVIDIA Corporation
+2018-04-19T03:09:19.219Z - normal: Simulator: 	gl.renderer: GeForce GTX 950M/PCIe/SSE2
+2018-04-19T03:09:19.219Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-04-19T03:09:19.219Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-04-19T03:09:19.219Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-04-19T03:09:19.219Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-04-19T03:09:19.219Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-04-19T03:09:19.219Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-04-19T03:09:19.220Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-04-19T03:09:19.221Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-04-19T03:09:19.221Z - normal: Simulator: }
+2018-04-19T03:09:19.222Z - normal: Simulator: 
+2018-04-19T03:09:19.222Z - normal: Simulator: 
+2018-04-19T03:09:19.222Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-04-19T03:09:19.223Z - normal: Simulator: Project Config:
+2018-04-19T03:09:19.223Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-04-19T03:09:19.223Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-04-19T03:09:19.223Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-04-19T03:09:19.223Z - normal: Simulator:     frame size: 960 x 640
+2018-04-19T03:09:19.223Z - normal: Simulator:     frame scale: 1.00
+2018-04-19T03:09:19.223Z - normal: Simulator:     show console: NO
+2018-04-19T03:09:19.224Z - normal: Simulator:     write debug log: NO ()
+2018-04-19T03:09:19.224Z - normal: Simulator:     listen: 
+2018-04-19T03:09:19.224Z - normal: Simulator:     debugger: none
+2018-04-19T03:09:19.224Z - normal: Simulator:     add searching path:
+2018-04-19T03:09:19.224Z - normal: Simulator: 
+2018-04-19T03:09:19.224Z - normal: Simulator: 
+2018-04-19T03:09:19.225Z - normal: Simulator: 
+2018-04-19T03:09:19.225Z - normal: Simulator: ------------------------------------------------
+2018-04-19T03:09:19.225Z - normal: Simulator: LOAD Js FILE: main.js
+2018-04-19T03:09:19.225Z - normal: Simulator: ------------------------------------------------
+2018-04-19T03:09:19.225Z - normal: Simulator: D/jswrapper (364): Initializing V8, version: 6.0.286.52
+2018-04-19T03:09:19.678Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-04-19T03:09:19.679Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-04-19T03:09:19.680Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-04-19T03:09:19.804Z - normal: Simulator: D/jswrapper (125): JS: Cocos2d-x-lite v1.8.2
+2018-04-19T03:09:20.032Z - normal: Simulator: iShow!
+2018-04-19T03:09:20.258Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 1.4230000000000018ms
+2018-04-19T03:09:20.264Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.28700000000003456ms
+2018-04-19T03:09:20.265Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 0.13599999999996726ms
+2018-04-19T03:09:20.266Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.011999999999943611ms
+2018-04-19T03:09:20.283Z - normal: Simulator: D/jswrapper (125): JS: Activate: 7.733999999999924ms
+2018-04-19T03:09:20.893Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:09:20.894Z - normal: Simulator: STACK:
+2018-04-19T03:09:20.894Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:09:20.894Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BFDF090) failed!
+2018-04-19T03:09:20.894Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:09:20.894Z - normal: Simulator: STACK:
+2018-04-19T03:09:20.895Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:09:20.895Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BFDEED8) failed!
+2018-04-19T03:09:21.477Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:09:21.478Z - normal: Simulator: STACK:
+2018-04-19T03:09:21.479Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:09:21.479Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BFDF090) failed!
+2018-04-19T03:09:21.479Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:09:21.479Z - normal: Simulator: STACK:
+2018-04-19T03:09:21.479Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:09:21.480Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BFDEED8) failed!
+2018-04-19T03:09:22.478Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:09:22.478Z - normal: Simulator: STACK:
+2018-04-19T03:09:22.478Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:09:22.479Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BFDF090) failed!
+2018-04-19T03:09:22.479Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:09:22.479Z - normal: Simulator: STACK:
+2018-04-19T03:09:22.479Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:09:22.479Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BFDEED8) failed!
+2018-04-19T03:09:23.082Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:09:23.082Z - normal: Simulator: STACK:
+2018-04-19T03:09:23.082Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:09:23.083Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BFDF090) failed!
+2018-04-19T03:09:23.083Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:09:23.083Z - normal: Simulator: STACK:
+2018-04-19T03:09:23.083Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:09:23.083Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BFDEED8) failed!
+2018-04-19T03:09:23.682Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:09:23.682Z - normal: Simulator: STACK:
+2018-04-19T03:09:23.683Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:09:23.683Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BFDF090) failed!
+2018-04-19T03:09:23.683Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:09:23.683Z - normal: Simulator: STACK:
+2018-04-19T03:09:23.683Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:09:23.684Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BFDEED8) failed!
+2018-04-19T03:09:24.282Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:09:24.282Z - normal: Simulator: STACK:
+2018-04-19T03:09:24.282Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:09:24.283Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BFDF090) failed!
+2018-04-19T03:09:24.283Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:09:24.283Z - normal: Simulator: STACK:
+2018-04-19T03:09:24.283Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:09:24.283Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BFDEED8) failed!
+2018-04-19T03:09:24.882Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:09:24.882Z - normal: Simulator: STACK:
+2018-04-19T03:09:24.883Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:09:24.883Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BFDF090) failed!
+2018-04-19T03:09:24.883Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:09:24.883Z - normal: Simulator: STACK:
+2018-04-19T03:09:24.883Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:09:24.884Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BFDEED8) failed!
+2018-04-19T03:09:25.115Z - normal: Simulator: D/jswrapper (447): ScriptEngine::cleanup begin ...
+2018-04-19T03:09:25.115Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 66, all objects: 351
+2018-04-19T03:09:25.163Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 46, all objects: 331
+2018-04-19T03:09:25.165Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 46, all objects: 331
+2018-04-19T03:09:25.209Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 46, all objects: 331
+2018-04-19T03:09:25.211Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-04-19T03:09:25.253Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 0, all objects: 0
+2018-04-19T03:09:25.257Z - normal: Simulator: D/jswrapper (480): Starting to cleanup dragonbones object, count: 0
+2018-04-19T03:09:25.258Z - normal: Simulator: D/jswrapper (499): After first cleanup, dragonbones object remained count: 0
+2018-04-19T03:09:25.259Z - normal: Simulator: D/jswrapper (515): After second cleanup, dragonbones object remained count: 0
+2018-04-19T03:09:25.259Z - normal: Simulator: D/jswrapper (510): ScriptEngine::cleanup end ...
+2018-04-19T03:10:00.046Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-04-19T03:10:00.047Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-04-19T03:10:00.047Z - normal: Simulator: FRAME SCALE = 1.00
+2018-04-19T03:10:00.946Z - normal: Simulator: Ready for GLSL
+2018-04-19T03:10:00.946Z - normal: Simulator: Ready for OpenGL 2.0
+2018-04-19T03:10:00.947Z - normal: Simulator: 
+2018-04-19T03:10:00.947Z - normal: Simulator: {
+2018-04-19T03:10:00.947Z - normal: Simulator: 	gl.version: 4.5.0 NVIDIA 369.09
+2018-04-19T03:10:00.948Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-04-19T03:10:00.948Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-04-19T03:10:00.948Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-04-19T03:10:00.948Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-04-19T03:10:00.948Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-04-19T03:10:00.948Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-04-19T03:10:00.949Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-04-19T03:10:00.949Z - normal: Simulator: 	gl.vendor: NVIDIA Corporation
+2018-04-19T03:10:00.949Z - normal: Simulator: 	gl.renderer: GeForce GTX 950M/PCIe/SSE2
+2018-04-19T03:10:00.949Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-04-19T03:10:00.949Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-04-19T03:10:00.949Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-04-19T03:10:00.950Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-04-19T03:10:00.950Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-04-19T03:10:00.950Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-04-19T03:10:00.950Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-04-19T03:10:00.950Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-04-19T03:10:00.950Z - normal: Simulator: }
+2018-04-19T03:10:00.951Z - normal: Simulator: 
+2018-04-19T03:10:00.951Z - normal: Simulator: 
+2018-04-19T03:10:00.951Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-04-19T03:10:00.966Z - normal: Simulator: Project Config:
+2018-04-19T03:10:00.966Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-04-19T03:10:00.972Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-04-19T03:10:00.972Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-04-19T03:10:00.972Z - normal: Simulator:     frame size: 960 x 640
+2018-04-19T03:10:00.972Z - normal: Simulator:     frame scale: 1.00
+2018-04-19T03:10:00.972Z - normal: Simulator:     show console: NO
+2018-04-19T03:10:00.973Z - normal: Simulator:     write debug log: NO ()
+2018-04-19T03:10:00.973Z - normal: Simulator:     listen: 
+2018-04-19T03:10:00.973Z - normal: Simulator:     debugger: none
+2018-04-19T03:10:00.973Z - normal: Simulator:     add searching path:
+2018-04-19T03:10:00.973Z - normal: Simulator: 
+2018-04-19T03:10:00.974Z - normal: Simulator: 
+2018-04-19T03:10:00.974Z - normal: Simulator: 
+2018-04-19T03:10:00.974Z - normal: Simulator: ------------------------------------------------
+2018-04-19T03:10:00.974Z - normal: Simulator: LOAD Js FILE: main.js
+2018-04-19T03:10:00.974Z - normal: Simulator: ------------------------------------------------
+2018-04-19T03:10:00.975Z - normal: Simulator: D/jswrapper (364): Initializing V8, version: 6.0.286.52
+2018-04-19T03:10:01.487Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-04-19T03:10:01.490Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-04-19T03:10:01.490Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-04-19T03:10:01.628Z - normal: Simulator: D/jswrapper (125): JS: Cocos2d-x-lite v1.8.2
+2018-04-19T03:10:01.888Z - normal: Simulator: iShow!
+2018-04-19T03:10:02.120Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 1.4640000000000555ms
+2018-04-19T03:10:02.124Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.2139999999999418ms
+2018-04-19T03:10:02.125Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 0.11000000000001364ms
+2018-04-19T03:10:02.125Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.012000000000057298ms
+2018-04-19T03:10:02.132Z - normal: Simulator: D/jswrapper (125): JS: Activate: 7.391999999999939ms
+2018-04-19T03:10:02.754Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:10:02.754Z - normal: Simulator: STACK:
+2018-04-19T03:10:02.754Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:10:02.754Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BDC1488) failed!
+2018-04-19T03:10:02.755Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:10:02.755Z - normal: Simulator: STACK:
+2018-04-19T03:10:02.755Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:10:02.755Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BDC1850) failed!
+2018-04-19T03:10:03.349Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:10:03.351Z - normal: Simulator: STACK:
+2018-04-19T03:10:03.351Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:10:03.351Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BDC1488) failed!
+2018-04-19T03:10:03.351Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:10:03.351Z - normal: Simulator: STACK:
+2018-04-19T03:10:03.351Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:10:03.353Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BDC1850) failed!
+2018-04-19T03:10:03.949Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:10:03.950Z - normal: Simulator: STACK:
+2018-04-19T03:10:03.950Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:10:03.950Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BDC1488) failed!
+2018-04-19T03:10:03.950Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:10:03.951Z - normal: Simulator: STACK:
+2018-04-19T03:10:03.951Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:10:03.951Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BDC1850) failed!
+2018-04-19T03:10:04.539Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:10:04.539Z - normal: Simulator: STACK:
+2018-04-19T03:10:04.540Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:10:04.540Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BDC1488) failed!
+2018-04-19T03:10:04.541Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:10:04.541Z - normal: Simulator: STACK:
+2018-04-19T03:10:04.541Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:10:04.541Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BDC1850) failed!
+2018-04-19T03:10:05.139Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:10:05.139Z - normal: Simulator: STACK:
+2018-04-19T03:10:05.140Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:10:05.141Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BDC1488) failed!
+2018-04-19T03:10:05.143Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:10:05.143Z - normal: Simulator: STACK:
+2018-04-19T03:10:05.143Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:10:05.143Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BDC1850) failed!
+2018-04-19T03:10:05.897Z - normal: Simulator: D/jswrapper (447): ScriptEngine::cleanup begin ...
+2018-04-19T03:10:05.897Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 101, all objects: 386
+2018-04-19T03:10:05.944Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 47, all objects: 332
+2018-04-19T03:10:05.944Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 47, all objects: 332
+2018-04-19T03:10:05.983Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 47, all objects: 332
+2018-04-19T03:10:05.984Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-04-19T03:10:06.028Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 0, all objects: 0
+2018-04-19T03:10:06.036Z - normal: Simulator: D/jswrapper (480): Starting to cleanup dragonbones object, count: 0
+2018-04-19T03:10:06.036Z - normal: Simulator: D/jswrapper (499): After first cleanup, dragonbones object remained count: 0
+2018-04-19T03:10:06.037Z - normal: Simulator: D/jswrapper (515): After second cleanup, dragonbones object remained count: 0
+2018-04-19T03:10:06.037Z - normal: Simulator: D/jswrapper (510): ScriptEngine::cleanup end ...
+2018-04-19T03:10:27.470Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-04-19T03:10:27.472Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-04-19T03:10:27.472Z - normal: Simulator: FRAME SCALE = 1.00
+2018-04-19T03:10:28.392Z - normal: Simulator: Ready for GLSL
+2018-04-19T03:10:28.392Z - normal: Simulator: Ready for OpenGL 2.0
+2018-04-19T03:10:28.392Z - normal: Simulator: 
+2018-04-19T03:10:28.392Z - normal: Simulator: {
+2018-04-19T03:10:28.392Z - normal: Simulator: 	gl.version: 4.5.0 NVIDIA 369.09
+2018-04-19T03:10:28.392Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-04-19T03:10:28.392Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-04-19T03:10:28.393Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-04-19T03:10:28.393Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-04-19T03:10:28.393Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-04-19T03:10:28.394Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-04-19T03:10:28.394Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-04-19T03:10:28.394Z - normal: Simulator: 	gl.vendor: NVIDIA Corporation
+2018-04-19T03:10:28.394Z - normal: Simulator: 	gl.renderer: GeForce GTX 950M/PCIe/SSE2
+2018-04-19T03:10:28.394Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-04-19T03:10:28.394Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-04-19T03:10:28.394Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-04-19T03:10:28.395Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-04-19T03:10:28.395Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-04-19T03:10:28.395Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-04-19T03:10:28.395Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-04-19T03:10:28.395Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-04-19T03:10:28.395Z - normal: Simulator: }
+2018-04-19T03:10:28.395Z - normal: Simulator: 
+2018-04-19T03:10:28.396Z - normal: Simulator: 
+2018-04-19T03:10:28.396Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-04-19T03:10:28.396Z - normal: Simulator: Project Config:
+2018-04-19T03:10:28.396Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-04-19T03:10:28.397Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-04-19T03:10:28.397Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-04-19T03:10:28.397Z - normal: Simulator:     frame size: 960 x 640
+2018-04-19T03:10:28.397Z - normal: Simulator:     frame scale: 1.00
+2018-04-19T03:10:28.397Z - normal: Simulator:     show console: NO
+2018-04-19T03:10:28.398Z - normal: Simulator:     write debug log: NO ()
+2018-04-19T03:10:28.398Z - normal: Simulator:     listen: 
+2018-04-19T03:10:28.398Z - normal: Simulator:     debugger: none
+2018-04-19T03:10:28.398Z - normal: Simulator:     add searching path:
+2018-04-19T03:10:28.398Z - normal: Simulator: 
+2018-04-19T03:10:28.398Z - normal: Simulator: 
+2018-04-19T03:10:28.398Z - normal: Simulator: 
+2018-04-19T03:10:28.399Z - normal: Simulator: ------------------------------------------------
+2018-04-19T03:10:28.399Z - normal: Simulator: LOAD Js FILE: main.js
+2018-04-19T03:10:28.399Z - normal: Simulator: ------------------------------------------------
+2018-04-19T03:10:28.399Z - normal: Simulator: D/jswrapper (364): Initializing V8, version: 6.0.286.52
+2018-04-19T03:10:28.840Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-04-19T03:10:28.842Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-04-19T03:10:28.843Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-04-19T03:10:28.958Z - normal: Simulator: D/jswrapper (125): JS: Cocos2d-x-lite v1.8.2
+2018-04-19T03:10:29.227Z - normal: Simulator: iShow!
+2018-04-19T03:10:29.359Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 1.375ms
+2018-04-19T03:10:29.364Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.20699999999999363ms
+2018-04-19T03:10:29.364Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 0.1129999999999427ms
+2018-04-19T03:10:29.364Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.010999999999967258ms
+2018-04-19T03:10:29.384Z - normal: Simulator: D/jswrapper (125): JS: Activate: 8.377999999999929ms
+2018-04-19T03:10:29.993Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:10:29.993Z - normal: Simulator: STACK:
+2018-04-19T03:10:29.993Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:10:29.994Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0AF39E28) failed!
+2018-04-19T03:10:29.994Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:10:29.994Z - normal: Simulator: STACK:
+2018-04-19T03:10:29.994Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:10:29.994Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0AF36AF0) failed!
+2018-04-19T03:10:30.593Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:10:30.593Z - normal: Simulator: STACK:
+2018-04-19T03:10:30.593Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:10:30.594Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0AF39E28) failed!
+2018-04-19T03:10:30.594Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:10:30.594Z - normal: Simulator: STACK:
+2018-04-19T03:10:30.594Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:10:30.595Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0AF36AF0) failed!
+2018-04-19T03:10:31.196Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:10:31.196Z - normal: Simulator: STACK:
+2018-04-19T03:10:31.196Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:10:31.196Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0AF39E28) failed!
+2018-04-19T03:10:31.196Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:10:31.196Z - normal: Simulator: STACK:
+2018-04-19T03:10:31.196Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:10:31.197Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0AF36AF0) failed!
+2018-04-19T03:10:31.793Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:10:31.793Z - normal: Simulator: STACK:
+2018-04-19T03:10:31.794Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:10:31.794Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0AF39E28) failed!
+2018-04-19T03:10:31.794Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:10:31.794Z - normal: Simulator: STACK:
+2018-04-19T03:10:31.794Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:10:31.794Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0AF36AF0) failed!
+2018-04-19T03:10:32.396Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:10:32.396Z - normal: Simulator: STACK:
+2018-04-19T03:10:32.397Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:10:32.397Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0AF39E28) failed!
+2018-04-19T03:10:32.397Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:10:32.397Z - normal: Simulator: STACK:
+2018-04-19T03:10:32.397Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:10:32.397Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0AF36AF0) failed!
+2018-04-19T03:10:32.993Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:10:32.993Z - normal: Simulator: STACK:
+2018-04-19T03:10:32.993Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:10:32.993Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0AF39E28) failed!
+2018-04-19T03:10:32.993Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:10:32.994Z - normal: Simulator: STACK:
+2018-04-19T03:10:32.994Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:10:32.994Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0AF36AF0) failed!
+2018-04-19T03:10:33.506Z - normal: Simulator: D/jswrapper (447): ScriptEngine::cleanup begin ...
+2018-04-19T03:10:33.506Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 79, all objects: 364
+2018-04-19T03:10:33.553Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 47, all objects: 332
+2018-04-19T03:10:33.554Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 47, all objects: 332
+2018-04-19T03:10:33.589Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 47, all objects: 332
+2018-04-19T03:10:33.589Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-04-19T03:10:33.641Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 0, all objects: 0
+2018-04-19T03:10:33.641Z - normal: Simulator: D/jswrapper (480): Starting to cleanup dragonbones object, count: 0
+2018-04-19T03:10:33.642Z - normal: Simulator: D/jswrapper (499): After first cleanup, dragonbones object remained count: 0
+2018-04-19T03:10:33.642Z - normal: Simulator: D/jswrapper (515): After second cleanup, dragonbones object remained count: 0
+2018-04-19T03:10:33.642Z - normal: Simulator: D/jswrapper (510): ScriptEngine::cleanup end ...
+2018-04-19T03:19:16.346Z - failed: Failed to drop asset 49d32e98-d9a3-4c82-8ef1-fd4b6fc98045, message: Error: Can not find a component in the script "49d32e98-d9a3-4c82-8ef1-fd4b6fc98045.json".
+    at C:\CocosCreator\resources\app.asar\editor\page\scene-utils\utils.js:1:865
+    at C:\CocosCreator\resources\engine\cocos2d\core\platform\CCAssetLibrary.js:130:25
+    at EventEmitter.ipcRenderer.on.n (C:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:4493)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2018-04-19T03:19:19.518Z - failed: Failed to drop asset 49d32e98-d9a3-4c82-8ef1-fd4b6fc98045, message: Error: Can not find a component in the script "49d32e98-d9a3-4c82-8ef1-fd4b6fc98045.json".
+    at C:\CocosCreator\resources\app.asar\editor\page\scene-utils\utils.js:1:865
+    at C:\CocosCreator\resources\engine\cocos2d\core\platform\CCAssetLibrary.js:130:25
+    at EventEmitter.ipcRenderer.on.n (C:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:4493)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2018-04-19T03:19:21.920Z - failed: Failed to drop asset 49d32e98-d9a3-4c82-8ef1-fd4b6fc98045, message: Error: Can not find a component in the script "49d32e98-d9a3-4c82-8ef1-fd4b6fc98045.json".
+    at C:\CocosCreator\resources\app.asar\editor\page\scene-utils\utils.js:1:865
+    at C:\CocosCreator\resources\engine\cocos2d\core\platform\CCAssetLibrary.js:130:25
+    at EventEmitter.ipcRenderer.on.n (C:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:4493)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2018-04-19T03:19:47.647Z - failed: Failed to drop asset 49d32e98-d9a3-4c82-8ef1-fd4b6fc98045, message: Error: Can not find a component in the script "49d32e98-d9a3-4c82-8ef1-fd4b6fc98045.json".
+    at C:\CocosCreator\resources\app.asar\editor\page\scene-utils\utils.js:1:865
+    at C:\CocosCreator\resources\engine\cocos2d\core\platform\CCAssetLibrary.js:130:25
+    at EventEmitter.ipcRenderer.on.n (C:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:4493)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2018-04-19T03:19:55.711Z - failed: Failed to drop asset 49d32e98-d9a3-4c82-8ef1-fd4b6fc98045, message: Error: Can not find a component in the script "49d32e98-d9a3-4c82-8ef1-fd4b6fc98045.json".
+    at C:\CocosCreator\resources\app.asar\editor\page\scene-utils\utils.js:1:865
+    at C:\CocosCreator\resources\engine\cocos2d\core\platform\CCAssetLibrary.js:130:25
+    at EventEmitter.ipcRenderer.on.n (C:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:4493)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2018-04-19T03:19:57.761Z - failed: Failed to drop asset 49d32e98-d9a3-4c82-8ef1-fd4b6fc98045, message: Error: Can not find a component in the script "49d32e98-d9a3-4c82-8ef1-fd4b6fc98045.json".
+    at C:\CocosCreator\resources\app.asar\editor\page\scene-utils\utils.js:1:865
+    at C:\CocosCreator\resources\engine\cocos2d\core\platform\CCAssetLibrary.js:130:25
+    at EventEmitter.ipcRenderer.on.n (C:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:4493)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2018-04-19T03:20:56.919Z - failed: Failed to drop asset 49d32e98-d9a3-4c82-8ef1-fd4b6fc98045, message: Error: Can not find a component in the script "49d32e98-d9a3-4c82-8ef1-fd4b6fc98045.json".
+    at C:\CocosCreator\resources\app.asar\editor\page\scene-utils\utils.js:1:865
+    at C:\CocosCreator\resources\engine\cocos2d\core\platform\CCAssetLibrary.js:130:25
+    at EventEmitter.ipcRenderer.on.n (C:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:4493)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2018-04-19T03:21:23.357Z - failed: Failed to drop asset 49d32e98-d9a3-4c82-8ef1-fd4b6fc98045, message: Error: Can not find a component in the script "49d32e98-d9a3-4c82-8ef1-fd4b6fc98045.json".
+    at C:\CocosCreator\resources\app.asar\editor\page\scene-utils\utils.js:1:865
+    at C:\CocosCreator\resources\engine\cocos2d\core\platform\CCAssetLibrary.js:130:25
+    at EventEmitter.ipcRenderer.on.n (C:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:4493)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2018-04-19T03:21:29.994Z - failed: Failed to drop asset 49d32e98-d9a3-4c82-8ef1-fd4b6fc98045, message: Error: Can not find a component in the script "49d32e98-d9a3-4c82-8ef1-fd4b6fc98045.json".
+    at C:\CocosCreator\resources\app.asar\editor\page\scene-utils\utils.js:1:865
+    at C:\CocosCreator\resources\engine\cocos2d\core\platform\CCAssetLibrary.js:130:25
+    at EventEmitter.ipcRenderer.on.n (C:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:4493)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2018-04-19T03:21:33.784Z - failed: Failed to drop asset 49d32e98-d9a3-4c82-8ef1-fd4b6fc98045, message: Error: Can not find a component in the script "49d32e98-d9a3-4c82-8ef1-fd4b6fc98045.json".
+    at C:\CocosCreator\resources\app.asar\editor\page\scene-utils\utils.js:1:865
+    at C:\CocosCreator\resources\engine\cocos2d\core\platform\CCAssetLibrary.js:130:25
+    at EventEmitter.ipcRenderer.on.n (C:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:4493)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2018-04-19T03:21:37.328Z - failed: Failed to drop asset 49d32e98-d9a3-4c82-8ef1-fd4b6fc98045, message: Error: Can not find a component in the script "49d32e98-d9a3-4c82-8ef1-fd4b6fc98045.json".
+    at C:\CocosCreator\resources\app.asar\editor\page\scene-utils\utils.js:1:865
+    at C:\CocosCreator\resources\engine\cocos2d\core\platform\CCAssetLibrary.js:130:25
+    at EventEmitter.ipcRenderer.on.n (C:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:4493)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2018-04-19T03:26:01.523Z - failed: Failed to drop asset 49d32e98-d9a3-4c82-8ef1-fd4b6fc98045, message: Error: Can not find a component in the script "49d32e98-d9a3-4c82-8ef1-fd4b6fc98045.json".
+    at C:\CocosCreator\resources\app.asar\editor\page\scene-utils\utils.js:1:865
+    at C:\CocosCreator\resources\engine\cocos2d\core\platform\CCAssetLibrary.js:130:25
+    at EventEmitter.ipcRenderer.on.n (C:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:4493)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2018-04-19T03:26:10.935Z - failed: Failed to drop asset 49d32e98-d9a3-4c82-8ef1-fd4b6fc98045, message: Error: Can not find a component in the script "49d32e98-d9a3-4c82-8ef1-fd4b6fc98045.json".
+    at C:\CocosCreator\resources\app.asar\editor\page\scene-utils\utils.js:1:865
+    at C:\CocosCreator\resources\engine\cocos2d\core\platform\CCAssetLibrary.js:130:25
+    at EventEmitter.ipcRenderer.on.n (C:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:4493)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2018-04-19T03:26:18.142Z - failed: Failed to drop asset 49d32e98-d9a3-4c82-8ef1-fd4b6fc98045, message: Error: Can not find a component in the script "49d32e98-d9a3-4c82-8ef1-fd4b6fc98045.json".
+    at C:\CocosCreator\resources\app.asar\editor\page\scene-utils\utils.js:1:865
+    at C:\CocosCreator\resources\engine\cocos2d\core\platform\CCAssetLibrary.js:130:25
+    at EventEmitter.ipcRenderer.on.n (C:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:4493)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2018-04-19T03:29:11.545Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-04-19T03:29:11.547Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-04-19T03:29:11.547Z - normal: Simulator: FRAME SCALE = 1.00
+2018-04-19T03:29:12.449Z - normal: Simulator: Ready for GLSL
+2018-04-19T03:29:12.453Z - normal: Simulator: Ready for OpenGL 2.0
+2018-04-19T03:29:12.453Z - normal: Simulator: 
+2018-04-19T03:29:12.453Z - normal: Simulator: {
+2018-04-19T03:29:12.454Z - normal: Simulator: 	gl.version: 4.5.0 NVIDIA 369.09
+2018-04-19T03:29:12.454Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-04-19T03:29:12.454Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-04-19T03:29:12.454Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-04-19T03:29:12.455Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-04-19T03:29:12.455Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-04-19T03:29:12.456Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-04-19T03:29:12.456Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-04-19T03:29:12.456Z - normal: Simulator: 	gl.vendor: NVIDIA Corporation
+2018-04-19T03:29:12.456Z - normal: Simulator: 	gl.renderer: GeForce GTX 950M/PCIe/SSE2
+2018-04-19T03:29:12.456Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-04-19T03:29:12.457Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-04-19T03:29:12.457Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-04-19T03:29:12.457Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-04-19T03:29:12.457Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-04-19T03:29:12.457Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-04-19T03:29:12.457Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-04-19T03:29:12.458Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-04-19T03:29:12.458Z - normal: Simulator: }
+2018-04-19T03:29:12.458Z - normal: Simulator: 
+2018-04-19T03:29:12.458Z - normal: Simulator: 
+2018-04-19T03:29:12.458Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-04-19T03:29:12.458Z - normal: Simulator: Project Config:
+2018-04-19T03:29:12.459Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-04-19T03:29:12.459Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-04-19T03:29:12.459Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-04-19T03:29:12.459Z - normal: Simulator:     frame size: 960 x 640
+2018-04-19T03:29:12.459Z - normal: Simulator:     frame scale: 1.00
+2018-04-19T03:29:12.460Z - normal: Simulator:     show console: NO
+2018-04-19T03:29:12.460Z - normal: Simulator:     write debug log: NO ()
+2018-04-19T03:29:12.460Z - normal: Simulator:     listen: 
+2018-04-19T03:29:12.460Z - normal: Simulator:     debugger: none
+2018-04-19T03:29:12.460Z - normal: Simulator:     add searching path:
+2018-04-19T03:29:12.460Z - normal: Simulator: 
+2018-04-19T03:29:12.460Z - normal: Simulator: 
+2018-04-19T03:29:12.461Z - normal: Simulator: 
+2018-04-19T03:29:12.461Z - normal: Simulator: ------------------------------------------------
+2018-04-19T03:29:12.461Z - normal: Simulator: LOAD Js FILE: main.js
+2018-04-19T03:29:12.461Z - normal: Simulator: ------------------------------------------------
+2018-04-19T03:29:12.461Z - normal: Simulator: D/jswrapper (364): Initializing V8, version: 6.0.286.52
+2018-04-19T03:29:12.890Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-04-19T03:29:12.892Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-04-19T03:29:12.892Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-04-19T03:29:13.006Z - normal: Simulator: D/jswrapper (125): JS: Cocos2d-x-lite v1.8.2
+2018-04-19T03:29:13.233Z - normal: Simulator: iShow!
+2018-04-19T03:29:13.366Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 1.3940000000000055ms
+2018-04-19T03:29:13.377Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.2839999999999918ms
+2018-04-19T03:29:13.377Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 0.132000000000005ms
+2018-04-19T03:29:13.377Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.012000000000000455ms
+2018-04-19T03:29:13.396Z - normal: Simulator: D/jswrapper (125): JS: Activate: 11.604999999999961ms
+2018-04-19T03:29:14.005Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:29:14.006Z - normal: Simulator: STACK:
+2018-04-19T03:29:14.006Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:29:14.006Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0C109B18) failed!
+2018-04-19T03:29:14.007Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:29:14.007Z - normal: Simulator: STACK:
+2018-04-19T03:29:14.007Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:29:14.007Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0C109E30) failed!
+2018-04-19T03:29:14.605Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:29:14.606Z - normal: Simulator: STACK:
+2018-04-19T03:29:14.606Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:29:14.607Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0C109B18) failed!
+2018-04-19T03:29:14.607Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:29:14.607Z - normal: Simulator: STACK:
+2018-04-19T03:29:14.607Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:29:14.608Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0C109E30) failed!
+2018-04-19T03:29:15.205Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:29:15.205Z - normal: Simulator: STACK:
+2018-04-19T03:29:15.205Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:29:15.205Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0C109B18) failed!
+2018-04-19T03:29:15.205Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:29:15.206Z - normal: Simulator: STACK:
+2018-04-19T03:29:15.206Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:29:15.206Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0C109E30) failed!
+2018-04-19T03:29:15.805Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:29:15.805Z - normal: Simulator: STACK:
+2018-04-19T03:29:15.806Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:29:15.806Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0C109B18) failed!
+2018-04-19T03:29:15.806Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:29:15.806Z - normal: Simulator: STACK:
+2018-04-19T03:29:15.806Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:29:15.807Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0C109E30) failed!
+2018-04-19T03:29:16.405Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:29:16.405Z - normal: Simulator: STACK:
+2018-04-19T03:29:16.406Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:29:16.406Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0C109B18) failed!
+2018-04-19T03:29:16.406Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:29:16.406Z - normal: Simulator: STACK:
+2018-04-19T03:29:16.406Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:29:16.406Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0C109E30) failed!
+2018-04-19T03:29:16.908Z - normal: Simulator: D/jswrapper (447): ScriptEngine::cleanup begin ...
+2018-04-19T03:29:16.908Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 67, all objects: 352
+2018-04-19T03:29:16.949Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 47, all objects: 332
+2018-04-19T03:29:16.949Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 47, all objects: 332
+2018-04-19T03:29:16.993Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 47, all objects: 332
+2018-04-19T03:29:16.994Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-04-19T03:29:17.031Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 0, all objects: 0
+2018-04-19T03:29:17.043Z - normal: Simulator: D/jswrapper (480): Starting to cleanup dragonbones object, count: 0
+2018-04-19T03:29:17.043Z - normal: Simulator: D/jswrapper (499): After first cleanup, dragonbones object remained count: 0
+2018-04-19T03:29:17.044Z - normal: Simulator: D/jswrapper (515): After second cleanup, dragonbones object remained count: 0
+2018-04-19T03:29:17.044Z - normal: Simulator: D/jswrapper (510): ScriptEngine::cleanup end ...
+2018-04-19T03:30:48.099Z - warn: The Asset used is missing. Detailed information:
+Missing uuid: "513539ea-0df8-43bf-b1f9-3922587110c6"
+
+2018-04-19T03:30:57.209Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-04-19T03:30:57.210Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-04-19T03:30:57.211Z - normal: Simulator: FRAME SCALE = 1.00
+2018-04-19T03:30:58.078Z - normal: Simulator: Ready for GLSL
+2018-04-19T03:30:58.078Z - normal: Simulator: Ready for OpenGL 2.0
+2018-04-19T03:30:58.078Z - normal: Simulator: 
+2018-04-19T03:30:58.078Z - normal: Simulator: {
+2018-04-19T03:30:58.079Z - normal: Simulator: 	gl.version: 4.5.0 NVIDIA 369.09
+2018-04-19T03:30:58.079Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-04-19T03:30:58.079Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-04-19T03:30:58.079Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-04-19T03:30:58.079Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-04-19T03:30:58.080Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-04-19T03:30:58.080Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-04-19T03:30:58.080Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-04-19T03:30:58.080Z - normal: Simulator: 	gl.vendor: NVIDIA Corporation
+2018-04-19T03:30:58.081Z - normal: Simulator: 	gl.renderer: GeForce GTX 950M/PCIe/SSE2
+2018-04-19T03:30:58.081Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-04-19T03:30:58.081Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-04-19T03:30:58.081Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-04-19T03:30:58.081Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-04-19T03:30:58.081Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-04-19T03:30:58.082Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-04-19T03:30:58.085Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-04-19T03:30:58.086Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-04-19T03:30:58.086Z - normal: Simulator: }
+2018-04-19T03:30:58.086Z - normal: Simulator: 
+2018-04-19T03:30:58.086Z - normal: Simulator: 
+2018-04-19T03:30:58.086Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-04-19T03:30:58.086Z - normal: Simulator: Project Config:
+2018-04-19T03:30:58.087Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-04-19T03:30:58.087Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-04-19T03:30:58.088Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-04-19T03:30:58.089Z - normal: Simulator:     frame size: 960 x 640
+2018-04-19T03:30:58.089Z - normal: Simulator:     frame scale: 1.00
+2018-04-19T03:30:58.090Z - normal: Simulator:     show console: NO
+2018-04-19T03:30:58.090Z - normal: Simulator:     write debug log: NO ()
+2018-04-19T03:30:58.091Z - normal: Simulator:     listen: 
+2018-04-19T03:30:58.091Z - normal: Simulator:     debugger: none
+2018-04-19T03:30:58.091Z - normal: Simulator:     add searching path:
+2018-04-19T03:30:58.091Z - normal: Simulator: 
+2018-04-19T03:30:58.091Z - normal: Simulator: 
+2018-04-19T03:30:58.091Z - normal: Simulator: 
+2018-04-19T03:30:58.091Z - normal: Simulator: ------------------------------------------------
+2018-04-19T03:30:58.092Z - normal: Simulator: LOAD Js FILE: main.js
+2018-04-19T03:30:58.092Z - normal: Simulator: ------------------------------------------------
+2018-04-19T03:30:58.092Z - normal: Simulator: D/jswrapper (364): Initializing V8, version: 6.0.286.52
+2018-04-19T03:30:58.510Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-04-19T03:30:58.513Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-04-19T03:30:58.513Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-04-19T03:30:58.631Z - normal: Simulator: D/jswrapper (125): JS: Cocos2d-x-lite v1.8.2
+2018-04-19T03:30:58.856Z - normal: Simulator: iShow!
+2018-04-19T03:30:58.989Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 1.9379999999999882ms
+2018-04-19T03:30:58.993Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.2459999999999809ms
+2018-04-19T03:30:58.994Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 0.09699999999997999ms
+2018-04-19T03:30:58.994Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.010999999999967258ms
+2018-04-19T03:30:59.012Z - normal: Simulator: D/jswrapper (125): JS: Activate: 8.827999999999975ms
+2018-04-19T03:30:59.624Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:30:59.625Z - normal: Simulator: STACK:
+2018-04-19T03:30:59.625Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:30:59.625Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BBF4160) failed!
+2018-04-19T03:30:59.625Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:30:59.625Z - normal: Simulator: STACK:
+2018-04-19T03:30:59.626Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:30:59.627Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BBF3A28) failed!
+2018-04-19T03:31:00.226Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:31:00.227Z - normal: Simulator: STACK:
+2018-04-19T03:31:00.227Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:31:00.227Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BBF4160) failed!
+2018-04-19T03:31:00.227Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:31:00.228Z - normal: Simulator: STACK:
+2018-04-19T03:31:00.228Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:31:00.228Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BBF3A28) failed!
+2018-04-19T03:31:00.824Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:31:00.825Z - normal: Simulator: STACK:
+2018-04-19T03:31:00.825Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:31:00.825Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BBF4160) failed!
+2018-04-19T03:31:00.825Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:31:00.825Z - normal: Simulator: STACK:
+2018-04-19T03:31:00.825Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:31:00.826Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BBF3A28) failed!
+2018-04-19T03:31:01.424Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:31:01.424Z - normal: Simulator: STACK:
+2018-04-19T03:31:01.424Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:31:01.424Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BBF4160) failed!
+2018-04-19T03:31:01.424Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:31:01.425Z - normal: Simulator: STACK:
+2018-04-19T03:31:01.425Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:31:01.425Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BBF3A28) failed!
+2018-04-19T03:31:02.101Z - normal: Simulator: D/jswrapper (447): ScriptEngine::cleanup begin ...
+2018-04-19T03:31:02.101Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 73, all objects: 358
+2018-04-19T03:31:02.144Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 47, all objects: 332
+2018-04-19T03:31:02.144Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 47, all objects: 332
+2018-04-19T03:31:02.180Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 47, all objects: 332
+2018-04-19T03:31:02.181Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-04-19T03:31:02.221Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 0, all objects: 0
+2018-04-19T03:31:02.224Z - normal: Simulator: D/jswrapper (480): Starting to cleanup dragonbones object, count: 0
+2018-04-19T03:31:02.225Z - normal: Simulator: D/jswrapper (499): After first cleanup, dragonbones object remained count: 0
+2018-04-19T03:31:02.225Z - normal: Simulator: D/jswrapper (515): After second cleanup, dragonbones object remained count: 0
+2018-04-19T03:31:02.226Z - normal: Simulator: D/jswrapper (510): ScriptEngine::cleanup end ...
+2018-04-19T03:33:24.023Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-04-19T03:33:24.025Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-04-19T03:33:24.025Z - normal: Simulator: FRAME SCALE = 1.00
+2018-04-19T03:33:24.930Z - normal: Simulator: Ready for GLSL
+2018-04-19T03:33:24.930Z - normal: Simulator: Ready for OpenGL 2.0
+2018-04-19T03:33:24.930Z - normal: Simulator: 
+2018-04-19T03:33:24.931Z - normal: Simulator: {
+2018-04-19T03:33:24.931Z - normal: Simulator: 	gl.version: 4.5.0 NVIDIA 369.09
+2018-04-19T03:33:24.931Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-04-19T03:33:24.931Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-04-19T03:33:24.931Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-04-19T03:33:24.931Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-04-19T03:33:24.931Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-04-19T03:33:24.932Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-04-19T03:33:24.932Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-04-19T03:33:24.932Z - normal: Simulator: 	gl.vendor: NVIDIA Corporation
+2018-04-19T03:33:24.932Z - normal: Simulator: 	gl.renderer: GeForce GTX 950M/PCIe/SSE2
+2018-04-19T03:33:24.932Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-04-19T03:33:24.932Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-04-19T03:33:24.933Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-04-19T03:33:24.933Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-04-19T03:33:24.933Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-04-19T03:33:24.933Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-04-19T03:33:24.933Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-04-19T03:33:24.934Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-04-19T03:33:24.935Z - normal: Simulator: }
+2018-04-19T03:33:24.936Z - normal: Simulator: 
+2018-04-19T03:33:24.936Z - normal: Simulator: 
+2018-04-19T03:33:24.937Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-04-19T03:33:24.937Z - normal: Simulator: Project Config:
+2018-04-19T03:33:24.937Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-04-19T03:33:24.937Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-04-19T03:33:24.937Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-04-19T03:33:24.937Z - normal: Simulator:     frame size: 960 x 640
+2018-04-19T03:33:24.937Z - normal: Simulator:     frame scale: 1.00
+2018-04-19T03:33:24.938Z - normal: Simulator:     show console: NO
+2018-04-19T03:33:24.938Z - normal: Simulator:     write debug log: NO ()
+2018-04-19T03:33:24.938Z - normal: Simulator:     listen: 
+2018-04-19T03:33:24.939Z - normal: Simulator:     debugger: none
+2018-04-19T03:33:24.939Z - normal: Simulator:     add searching path:
+2018-04-19T03:33:24.939Z - normal: Simulator: 
+2018-04-19T03:33:24.939Z - normal: Simulator: 
+2018-04-19T03:33:24.939Z - normal: Simulator: 
+2018-04-19T03:33:24.939Z - normal: Simulator: ------------------------------------------------
+2018-04-19T03:33:24.939Z - normal: Simulator: LOAD Js FILE: main.js
+2018-04-19T03:33:24.940Z - normal: Simulator: ------------------------------------------------
+2018-04-19T03:33:24.940Z - normal: Simulator: D/jswrapper (364): Initializing V8, version: 6.0.286.52
+2018-04-19T03:33:25.375Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-04-19T03:33:25.377Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-04-19T03:33:25.378Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-04-19T03:33:25.493Z - normal: Simulator: D/jswrapper (125): JS: Cocos2d-x-lite v1.8.2
+2018-04-19T03:33:25.713Z - normal: Simulator: iShow!
+2018-04-19T03:33:25.833Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 1.5769999999999982ms
+2018-04-19T03:33:25.849Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.2980000000000018ms
+2018-04-19T03:33:25.849Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 0.132000000000005ms
+2018-04-19T03:33:25.850Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.010999999999967258ms
+2018-04-19T03:33:25.850Z - normal: Simulator: D/jswrapper (125): JS: Activate: 9.528999999999996ms
+2018-04-19T03:33:26.475Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:33:26.475Z - normal: Simulator: STACK:
+2018-04-19T03:33:26.475Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:33:26.475Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCF89E0) failed!
+2018-04-19T03:33:26.476Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:33:26.476Z - normal: Simulator: STACK:
+2018-04-19T03:33:26.476Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:33:26.476Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCF9328) failed!
+2018-04-19T03:33:27.075Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:33:27.076Z - normal: Simulator: STACK:
+2018-04-19T03:33:27.076Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:33:27.076Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCF89E0) failed!
+2018-04-19T03:33:27.077Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:33:27.077Z - normal: Simulator: STACK:
+2018-04-19T03:33:27.077Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:33:27.077Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCF9328) failed!
+2018-04-19T03:33:27.516Z - normal: Simulator: D/jswrapper (447): ScriptEngine::cleanup begin ...
+2018-04-19T03:33:27.517Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 72, all objects: 357
+2018-04-19T03:33:27.564Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 52, all objects: 337
+2018-04-19T03:33:27.564Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 52, all objects: 337
+2018-04-19T03:33:27.604Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 52, all objects: 337
+2018-04-19T03:33:27.606Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-04-19T03:33:27.646Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 0, all objects: 0
+2018-04-19T03:33:27.649Z - normal: Simulator: D/jswrapper (480): Starting to cleanup dragonbones object, count: 0
+2018-04-19T03:33:27.649Z - normal: Simulator: D/jswrapper (499): After first cleanup, dragonbones object remained count: 0
+2018-04-19T03:33:27.649Z - normal: Simulator: D/jswrapper (515): After second cleanup, dragonbones object remained count: 0
+2018-04-19T03:33:27.651Z - normal: Simulator: D/jswrapper (510): ScriptEngine::cleanup end ...
+2018-04-19T03:33:51.411Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-04-19T03:33:51.413Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-04-19T03:33:51.413Z - normal: Simulator: FRAME SCALE = 1.00
+2018-04-19T03:33:52.324Z - normal: Simulator: Ready for GLSL
+2018-04-19T03:33:52.325Z - normal: Simulator: Ready for OpenGL 2.0
+2018-04-19T03:33:52.325Z - normal: Simulator: 
+2018-04-19T03:33:52.325Z - normal: Simulator: {
+2018-04-19T03:33:52.325Z - normal: Simulator: 	gl.version: 4.5.0 NVIDIA 369.09
+2018-04-19T03:33:52.325Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-04-19T03:33:52.325Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-04-19T03:33:52.326Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-04-19T03:33:52.326Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-04-19T03:33:52.326Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-04-19T03:33:52.326Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-04-19T03:33:52.326Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-04-19T03:33:52.326Z - normal: Simulator: 	gl.vendor: NVIDIA Corporation
+2018-04-19T03:33:52.327Z - normal: Simulator: 	gl.renderer: GeForce GTX 950M/PCIe/SSE2
+2018-04-19T03:33:52.327Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-04-19T03:33:52.327Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-04-19T03:33:52.327Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-04-19T03:33:52.327Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-04-19T03:33:52.327Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-04-19T03:33:52.327Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-04-19T03:33:52.327Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-04-19T03:33:52.328Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-04-19T03:33:52.328Z - normal: Simulator: }
+2018-04-19T03:33:52.328Z - normal: Simulator: 
+2018-04-19T03:33:52.328Z - normal: Simulator: 
+2018-04-19T03:33:52.328Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-04-19T03:33:52.328Z - normal: Simulator: Project Config:
+2018-04-19T03:33:52.328Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-04-19T03:33:52.328Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-04-19T03:33:52.329Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-04-19T03:33:52.329Z - normal: Simulator:     frame size: 960 x 640
+2018-04-19T03:33:52.329Z - normal: Simulator:     frame scale: 1.00
+2018-04-19T03:33:52.329Z - normal: Simulator:     show console: NO
+2018-04-19T03:33:52.329Z - normal: Simulator:     write debug log: NO ()
+2018-04-19T03:33:52.329Z - normal: Simulator:     listen: 
+2018-04-19T03:33:52.329Z - normal: Simulator:     debugger: none
+2018-04-19T03:33:52.329Z - normal: Simulator:     add searching path:
+2018-04-19T03:33:52.330Z - normal: Simulator: 
+2018-04-19T03:33:52.330Z - normal: Simulator: 
+2018-04-19T03:33:52.330Z - normal: Simulator: 
+2018-04-19T03:33:52.330Z - normal: Simulator: ------------------------------------------------
+2018-04-19T03:33:52.330Z - normal: Simulator: LOAD Js FILE: main.js
+2018-04-19T03:33:52.330Z - normal: Simulator: ------------------------------------------------
+2018-04-19T03:33:52.330Z - normal: Simulator: D/jswrapper (364): Initializing V8, version: 6.0.286.52
+2018-04-19T03:33:52.740Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-04-19T03:33:52.748Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-04-19T03:33:52.748Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-04-19T03:33:52.859Z - normal: Simulator: D/jswrapper (125): JS: Cocos2d-x-lite v1.8.2
+2018-04-19T03:33:53.107Z - normal: Simulator: iShow!
+2018-04-19T03:33:53.221Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 2.8360000000000127ms
+2018-04-19T03:33:53.224Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.21100000000001273ms
+2018-04-19T03:33:53.224Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 0.1190000000000282ms
+2018-04-19T03:33:53.225Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.010999999999967258ms
+2018-04-19T03:33:53.247Z - normal: Simulator: D/jswrapper (125): JS: Activate: 10.26400000000001ms
+2018-04-19T03:33:53.856Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:33:53.857Z - normal: Simulator: STACK:
+2018-04-19T03:33:53.857Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:33:53.857Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BD12A00) failed!
+2018-04-19T03:33:53.857Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:33:53.857Z - normal: Simulator: STACK:
+2018-04-19T03:33:53.858Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:33:53.858Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BD127F0) failed!
+2018-04-19T03:33:54.456Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:33:54.456Z - normal: Simulator: STACK:
+2018-04-19T03:33:54.457Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:33:54.457Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BD12A00) failed!
+2018-04-19T03:33:54.457Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:33:54.457Z - normal: Simulator: STACK:
+2018-04-19T03:33:54.457Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:33:54.458Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BD127F0) failed!
+2018-04-19T03:33:55.057Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:33:55.057Z - normal: Simulator: STACK:
+2018-04-19T03:33:55.057Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:33:55.058Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BD12A00) failed!
+2018-04-19T03:33:55.058Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:33:55.058Z - normal: Simulator: STACK:
+2018-04-19T03:33:55.059Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:33:55.059Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BD127F0) failed!
+2018-04-19T03:33:55.656Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:33:55.657Z - normal: Simulator: STACK:
+2018-04-19T03:33:55.657Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:33:55.657Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BD12A00) failed!
+2018-04-19T03:33:55.657Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:33:55.657Z - normal: Simulator: STACK:
+2018-04-19T03:33:55.658Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:33:55.658Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BD127F0) failed!
+2018-04-19T03:33:56.256Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:33:56.257Z - normal: Simulator: STACK:
+2018-04-19T03:33:56.257Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:33:56.257Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BD12A00) failed!
+2018-04-19T03:33:56.258Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:33:56.258Z - normal: Simulator: STACK:
+2018-04-19T03:33:56.258Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:33:56.258Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BD127F0) failed!
+2018-04-19T03:33:56.856Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:33:56.857Z - normal: Simulator: STACK:
+2018-04-19T03:33:56.857Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:33:56.857Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BD12A00) failed!
+2018-04-19T03:33:56.857Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:33:56.857Z - normal: Simulator: STACK:
+2018-04-19T03:33:56.857Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:33:56.857Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BD127F0) failed!
+2018-04-19T03:33:57.456Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:33:57.456Z - normal: Simulator: STACK:
+2018-04-19T03:33:57.457Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:33:57.457Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BD12A00) failed!
+2018-04-19T03:33:57.457Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:33:57.457Z - normal: Simulator: STACK:
+2018-04-19T03:33:57.457Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:33:57.458Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BD127F0) failed!
+2018-04-19T03:33:58.056Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:33:58.056Z - normal: Simulator: STACK:
+2018-04-19T03:33:58.057Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:33:58.057Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BD12A00) failed!
+2018-04-19T03:33:58.057Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:33:58.057Z - normal: Simulator: STACK:
+2018-04-19T03:33:58.057Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:33:58.057Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BD127F0) failed!
+2018-04-19T03:33:58.646Z - normal: Simulator: D/jswrapper (447): ScriptEngine::cleanup begin ...
+2018-04-19T03:33:58.646Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 81, all objects: 366
+2018-04-19T03:33:58.689Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 54, all objects: 339
+2018-04-19T03:33:58.689Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 54, all objects: 339
+2018-04-19T03:33:58.730Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 54, all objects: 339
+2018-04-19T03:33:58.731Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-04-19T03:33:58.779Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 0, all objects: 0
+2018-04-19T03:33:58.780Z - normal: Simulator: D/jswrapper (480): Starting to cleanup dragonbones object, count: 0
+2018-04-19T03:33:58.780Z - normal: Simulator: D/jswrapper (499): After first cleanup, dragonbones object remained count: 0
+2018-04-19T03:33:58.781Z - normal: Simulator: D/jswrapper (515): After second cleanup, dragonbones object remained count: 0
+2018-04-19T03:33:58.782Z - normal: Simulator: D/jswrapper (510): ScriptEngine::cleanup end ...
+2018-04-19T03:34:28.434Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-04-19T03:34:28.435Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-04-19T03:34:28.435Z - normal: Simulator: FRAME SCALE = 1.00
+2018-04-19T03:34:29.327Z - normal: Simulator: Ready for GLSL
+2018-04-19T03:34:29.328Z - normal: Simulator: Ready for OpenGL 2.0
+2018-04-19T03:34:29.328Z - normal: Simulator: 
+2018-04-19T03:34:29.328Z - normal: Simulator: {
+2018-04-19T03:34:29.328Z - normal: Simulator: 	gl.version: 4.5.0 NVIDIA 369.09
+2018-04-19T03:34:29.328Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-04-19T03:34:29.329Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-04-19T03:34:29.329Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-04-19T03:34:29.329Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-04-19T03:34:29.329Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-04-19T03:34:29.329Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-04-19T03:34:29.329Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-04-19T03:34:29.329Z - normal: Simulator: 	gl.vendor: NVIDIA Corporation
+2018-04-19T03:34:29.330Z - normal: Simulator: 	gl.renderer: GeForce GTX 950M/PCIe/SSE2
+2018-04-19T03:34:29.330Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-04-19T03:34:29.330Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-04-19T03:34:29.330Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-04-19T03:34:29.330Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-04-19T03:34:29.330Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-04-19T03:34:29.331Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-04-19T03:34:29.331Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-04-19T03:34:29.331Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-04-19T03:34:29.331Z - normal: Simulator: }
+2018-04-19T03:34:29.331Z - normal: Simulator: 
+2018-04-19T03:34:29.331Z - normal: Simulator: 
+2018-04-19T03:34:29.331Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-04-19T03:34:29.331Z - normal: Simulator: Project Config:
+2018-04-19T03:34:29.332Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-04-19T03:34:29.332Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-04-19T03:34:29.332Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-04-19T03:34:29.332Z - normal: Simulator:     frame size: 960 x 640
+2018-04-19T03:34:29.332Z - normal: Simulator:     frame scale: 1.00
+2018-04-19T03:34:29.332Z - normal: Simulator:     show console: NO
+2018-04-19T03:34:29.335Z - normal: Simulator:     write debug log: NO ()
+2018-04-19T03:34:29.335Z - normal: Simulator:     listen: 
+2018-04-19T03:34:29.336Z - normal: Simulator:     debugger: none
+2018-04-19T03:34:29.336Z - normal: Simulator:     add searching path:
+2018-04-19T03:34:29.336Z - normal: Simulator: 
+2018-04-19T03:34:29.336Z - normal: Simulator: 
+2018-04-19T03:34:29.336Z - normal: Simulator: 
+2018-04-19T03:34:29.336Z - normal: Simulator: ------------------------------------------------
+2018-04-19T03:34:29.336Z - normal: Simulator: LOAD Js FILE: main.js
+2018-04-19T03:34:29.337Z - normal: Simulator: ------------------------------------------------
+2018-04-19T03:34:29.337Z - normal: Simulator: D/jswrapper (364): Initializing V8, version: 6.0.286.52
+2018-04-19T03:34:29.767Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-04-19T03:34:29.769Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-04-19T03:34:29.769Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-04-19T03:34:29.881Z - normal: Simulator: D/jswrapper (125): JS: Cocos2d-x-lite v1.8.2
+2018-04-19T03:34:30.107Z - normal: Simulator: iShow!
+2018-04-19T03:34:30.238Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 2.1410000000000196ms
+2018-04-19T03:34:30.241Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.20999999999997954ms
+2018-04-19T03:34:30.242Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 0.1209999999999809ms
+2018-04-19T03:34:30.242Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.012000000000000455ms
+2018-04-19T03:34:30.263Z - normal: Simulator: D/jswrapper (125): JS: Activate: 10.176000000000045ms
+2018-04-19T03:34:30.873Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:34:30.873Z - normal: Simulator: STACK:
+2018-04-19T03:34:30.874Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:34:30.874Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0B978070) failed!
+2018-04-19T03:34:30.875Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:34:30.875Z - normal: Simulator: STACK:
+2018-04-19T03:34:30.875Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:34:30.875Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0B978F38) failed!
+2018-04-19T03:34:31.474Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:34:31.475Z - normal: Simulator: STACK:
+2018-04-19T03:34:31.475Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:34:31.476Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0B978070) failed!
+2018-04-19T03:34:31.476Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:34:31.476Z - normal: Simulator: STACK:
+2018-04-19T03:34:31.476Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:34:31.476Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0B978F38) failed!
+2018-04-19T03:34:31.827Z - normal: Simulator: D/jswrapper (447): ScriptEngine::cleanup begin ...
+2018-04-19T03:34:31.827Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 73, all objects: 358
+2018-04-19T03:34:31.872Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 52, all objects: 337
+2018-04-19T03:34:31.872Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 52, all objects: 337
+2018-04-19T03:34:31.914Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 52, all objects: 337
+2018-04-19T03:34:31.914Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-04-19T03:34:31.951Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 0, all objects: 0
+2018-04-19T03:34:31.956Z - normal: Simulator: D/jswrapper (480): Starting to cleanup dragonbones object, count: 0
+2018-04-19T03:34:31.956Z - normal: Simulator: D/jswrapper (499): After first cleanup, dragonbones object remained count: 0
+2018-04-19T03:34:31.957Z - normal: Simulator: D/jswrapper (515): After second cleanup, dragonbones object remained count: 0
+2018-04-19T03:34:31.957Z - normal: Simulator: D/jswrapper (510): ScriptEngine::cleanup end ...
+2018-04-19T03:35:32.094Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-04-19T03:35:32.105Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-04-19T03:35:32.105Z - normal: Simulator: FRAME SCALE = 1.00
+2018-04-19T03:35:33.048Z - normal: Simulator: Ready for GLSL
+2018-04-19T03:35:33.048Z - normal: Simulator: Ready for OpenGL 2.0
+2018-04-19T03:35:33.048Z - normal: Simulator: 
+2018-04-19T03:35:33.048Z - normal: Simulator: {
+2018-04-19T03:35:33.048Z - normal: Simulator: 	gl.version: 4.5.0 NVIDIA 369.09
+2018-04-19T03:35:33.049Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-04-19T03:35:33.049Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-04-19T03:35:33.049Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-04-19T03:35:33.049Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-04-19T03:35:33.049Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-04-19T03:35:33.050Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-04-19T03:35:33.051Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-04-19T03:35:33.052Z - normal: Simulator: 	gl.vendor: NVIDIA Corporation
+2018-04-19T03:35:33.052Z - normal: Simulator: 	gl.renderer: GeForce GTX 950M/PCIe/SSE2
+2018-04-19T03:35:33.052Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-04-19T03:35:33.053Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-04-19T03:35:33.053Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-04-19T03:35:33.053Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-04-19T03:35:33.053Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-04-19T03:35:33.053Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-04-19T03:35:33.053Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-04-19T03:35:33.054Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-04-19T03:35:33.054Z - normal: Simulator: }
+2018-04-19T03:35:33.054Z - normal: Simulator: 
+2018-04-19T03:35:33.054Z - normal: Simulator: 
+2018-04-19T03:35:33.054Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-04-19T03:35:33.054Z - normal: Simulator: Project Config:
+2018-04-19T03:35:33.054Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-04-19T03:35:33.055Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-04-19T03:35:33.055Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-04-19T03:35:33.055Z - normal: Simulator:     frame size: 960 x 640
+2018-04-19T03:35:33.055Z - normal: Simulator:     frame scale: 1.00
+2018-04-19T03:35:33.055Z - normal: Simulator:     show console: NO
+2018-04-19T03:35:33.055Z - normal: Simulator:     write debug log: NO ()
+2018-04-19T03:35:33.055Z - normal: Simulator:     listen: 
+2018-04-19T03:35:33.056Z - normal: Simulator:     debugger: none
+2018-04-19T03:35:33.056Z - normal: Simulator:     add searching path:
+2018-04-19T03:35:33.056Z - normal: Simulator: 
+2018-04-19T03:35:33.056Z - normal: Simulator: 
+2018-04-19T03:35:33.056Z - normal: Simulator: 
+2018-04-19T03:35:33.056Z - normal: Simulator: ------------------------------------------------
+2018-04-19T03:35:33.056Z - normal: Simulator: LOAD Js FILE: main.js
+2018-04-19T03:35:33.056Z - normal: Simulator: ------------------------------------------------
+2018-04-19T03:35:33.056Z - normal: Simulator: D/jswrapper (364): Initializing V8, version: 6.0.286.52
+2018-04-19T03:35:33.506Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-04-19T03:35:33.508Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-04-19T03:35:33.508Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-04-19T03:35:33.628Z - normal: Simulator: D/jswrapper (125): JS: Cocos2d-x-lite v1.8.2
+2018-04-19T03:35:33.855Z - normal: Simulator: iShow!
+2018-04-19T03:35:33.981Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 1.3929999999999723ms
+2018-04-19T03:35:33.999Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.3100000000000023ms
+2018-04-19T03:35:33.999Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 0.12400000000002365ms
+2018-04-19T03:35:33.999Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.011000000000024102ms
+2018-04-19T03:35:33.999Z - normal: Simulator: D/jswrapper (125): JS: Activate: 7.609999999999957ms
+2018-04-19T03:35:34.615Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:35:34.615Z - normal: Simulator: STACK:
+2018-04-19T03:35:34.615Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:35:34.616Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BD2FD90) failed!
+2018-04-19T03:35:34.616Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:35:34.616Z - normal: Simulator: STACK:
+2018-04-19T03:35:34.616Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:35:34.616Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BD2D8C8) failed!
+2018-04-19T03:35:35.215Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:35:35.218Z - normal: Simulator: STACK:
+2018-04-19T03:35:35.218Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:35:35.218Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BD2FD90) failed!
+2018-04-19T03:35:35.218Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:35:35.219Z - normal: Simulator: STACK:
+2018-04-19T03:35:35.219Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:35:35.219Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BD2D8C8) failed!
+2018-04-19T03:35:35.434Z - normal: Simulator: D/jswrapper (447): ScriptEngine::cleanup begin ...
+2018-04-19T03:35:35.434Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 71, all objects: 356
+2018-04-19T03:35:35.478Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 51, all objects: 336
+2018-04-19T03:35:35.479Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 51, all objects: 336
+2018-04-19T03:35:35.510Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 51, all objects: 336
+2018-04-19T03:35:35.511Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-04-19T03:35:35.544Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 0, all objects: 0
+2018-04-19T03:35:35.549Z - normal: Simulator: D/jswrapper (480): Starting to cleanup dragonbones object, count: 0
+2018-04-19T03:35:35.549Z - normal: Simulator: D/jswrapper (499): After first cleanup, dragonbones object remained count: 0
+2018-04-19T03:35:35.549Z - normal: Simulator: D/jswrapper (515): After second cleanup, dragonbones object remained count: 0
+2018-04-19T03:35:35.550Z - normal: Simulator: D/jswrapper (510): ScriptEngine::cleanup end ...
+2018-04-19T03:36:28.204Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-04-19T03:36:28.206Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-04-19T03:36:28.207Z - normal: Simulator: FRAME SCALE = 1.00
+2018-04-19T03:36:29.109Z - normal: Simulator: Ready for GLSL
+2018-04-19T03:36:29.109Z - normal: Simulator: Ready for OpenGL 2.0
+2018-04-19T03:36:29.110Z - normal: Simulator: 
+2018-04-19T03:36:29.110Z - normal: Simulator: {
+2018-04-19T03:36:29.110Z - normal: Simulator: 	gl.version: 4.5.0 NVIDIA 369.09
+2018-04-19T03:36:29.110Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-04-19T03:36:29.111Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-04-19T03:36:29.111Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-04-19T03:36:29.111Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-04-19T03:36:29.111Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-04-19T03:36:29.111Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-04-19T03:36:29.111Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-04-19T03:36:29.111Z - normal: Simulator: 	gl.vendor: NVIDIA Corporation
+2018-04-19T03:36:29.112Z - normal: Simulator: 	gl.renderer: GeForce GTX 950M/PCIe/SSE2
+2018-04-19T03:36:29.112Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-04-19T03:36:29.112Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-04-19T03:36:29.112Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-04-19T03:36:29.112Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-04-19T03:36:29.112Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-04-19T03:36:29.112Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-04-19T03:36:29.113Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-04-19T03:36:29.113Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-04-19T03:36:29.113Z - normal: Simulator: }
+2018-04-19T03:36:29.113Z - normal: Simulator: 
+2018-04-19T03:36:29.113Z - normal: Simulator: 
+2018-04-19T03:36:29.113Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-04-19T03:36:29.113Z - normal: Simulator: Project Config:
+2018-04-19T03:36:29.113Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-04-19T03:36:29.113Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-04-19T03:36:29.114Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-04-19T03:36:29.114Z - normal: Simulator:     frame size: 960 x 640
+2018-04-19T03:36:29.114Z - normal: Simulator:     frame scale: 1.00
+2018-04-19T03:36:29.114Z - normal: Simulator:     show console: NO
+2018-04-19T03:36:29.114Z - normal: Simulator:     write debug log: NO ()
+2018-04-19T03:36:29.114Z - normal: Simulator:     listen: 
+2018-04-19T03:36:29.114Z - normal: Simulator:     debugger: none
+2018-04-19T03:36:29.114Z - normal: Simulator:     add searching path:
+2018-04-19T03:36:29.115Z - normal: Simulator: 
+2018-04-19T03:36:29.115Z - normal: Simulator: 
+2018-04-19T03:36:29.115Z - normal: Simulator: 
+2018-04-19T03:36:29.115Z - normal: Simulator: ------------------------------------------------
+2018-04-19T03:36:29.115Z - normal: Simulator: LOAD Js FILE: main.js
+2018-04-19T03:36:29.115Z - normal: Simulator: ------------------------------------------------
+2018-04-19T03:36:29.115Z - normal: Simulator: D/jswrapper (364): Initializing V8, version: 6.0.286.52
+2018-04-19T03:36:29.525Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-04-19T03:36:29.527Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-04-19T03:36:29.527Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-04-19T03:36:29.645Z - normal: Simulator: D/jswrapper (125): JS: Cocos2d-x-lite v1.8.2
+2018-04-19T03:36:29.869Z - normal: Simulator: iShow!
+2018-04-19T03:36:30.007Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 1.649000000000001ms
+2018-04-19T03:36:30.010Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.23599999999999ms
+2018-04-19T03:36:30.011Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 0.18500000000000227ms
+2018-04-19T03:36:30.011Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.012000000000000455ms
+2018-04-19T03:36:30.031Z - normal: Simulator: D/jswrapper (125): JS: Activate: 9.884000000000015ms
+2018-04-19T03:36:30.642Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:36:30.642Z - normal: Simulator: STACK:
+2018-04-19T03:36:30.642Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:36:30.643Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BBDA820) failed!
+2018-04-19T03:36:30.643Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:36:30.643Z - normal: Simulator: STACK:
+2018-04-19T03:36:30.643Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:36:30.644Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BBD7B18) failed!
+2018-04-19T03:36:31.241Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:36:31.243Z - normal: Simulator: STACK:
+2018-04-19T03:36:31.243Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:36:31.243Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BBDA820) failed!
+2018-04-19T03:36:31.243Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:36:31.243Z - normal: Simulator: STACK:
+2018-04-19T03:36:31.243Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:36:31.244Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BBD7B18) failed!
+2018-04-19T03:36:31.738Z - normal: Simulator: D/jswrapper (447): ScriptEngine::cleanup begin ...
+2018-04-19T03:36:31.738Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 71, all objects: 356
+2018-04-19T03:36:31.784Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 51, all objects: 336
+2018-04-19T03:36:31.785Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 51, all objects: 336
+2018-04-19T03:36:31.833Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 51, all objects: 336
+2018-04-19T03:36:31.834Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-04-19T03:36:31.878Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 0, all objects: 0
+2018-04-19T03:36:31.879Z - normal: Simulator: D/jswrapper (480): Starting to cleanup dragonbones object, count: 0
+2018-04-19T03:36:31.879Z - normal: Simulator: D/jswrapper (499): After first cleanup, dragonbones object remained count: 0
+2018-04-19T03:36:31.879Z - normal: Simulator: D/jswrapper (515): After second cleanup, dragonbones object remained count: 0
+2018-04-19T03:36:31.879Z - normal: Simulator: D/jswrapper (510): ScriptEngine::cleanup end ...
+2018-04-19T03:36:46.954Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-04-19T03:36:46.955Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-04-19T03:36:46.955Z - normal: Simulator: FRAME SCALE = 1.00
+2018-04-19T03:36:47.828Z - normal: Simulator: Ready for GLSL
+2018-04-19T03:36:47.828Z - normal: Simulator: Ready for OpenGL 2.0
+2018-04-19T03:36:47.829Z - normal: Simulator: 
+2018-04-19T03:36:47.829Z - normal: Simulator: {
+2018-04-19T03:36:47.829Z - normal: Simulator: 	gl.version: 4.5.0 NVIDIA 369.09
+2018-04-19T03:36:47.829Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-04-19T03:36:47.829Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-04-19T03:36:47.829Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-04-19T03:36:47.830Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-04-19T03:36:47.830Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-04-19T03:36:47.830Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-04-19T03:36:47.830Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-04-19T03:36:47.830Z - normal: Simulator: 	gl.vendor: NVIDIA Corporation
+2018-04-19T03:36:47.830Z - normal: Simulator: 	gl.renderer: GeForce GTX 950M/PCIe/SSE2
+2018-04-19T03:36:47.830Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-04-19T03:36:47.830Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-04-19T03:36:47.831Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-04-19T03:36:47.831Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-04-19T03:36:47.831Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-04-19T03:36:47.831Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-04-19T03:36:47.831Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-04-19T03:36:47.831Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-04-19T03:36:47.831Z - normal: Simulator: }
+2018-04-19T03:36:47.831Z - normal: Simulator: 
+2018-04-19T03:36:47.832Z - normal: Simulator: 
+2018-04-19T03:36:47.832Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-04-19T03:36:47.832Z - normal: Simulator: Project Config:
+2018-04-19T03:36:47.832Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-04-19T03:36:47.832Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-04-19T03:36:47.832Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-04-19T03:36:47.832Z - normal: Simulator:     frame size: 960 x 640
+2018-04-19T03:36:47.833Z - normal: Simulator:     frame scale: 1.00
+2018-04-19T03:36:47.833Z - normal: Simulator:     show console: NO
+2018-04-19T03:36:47.833Z - normal: Simulator:     write debug log: NO ()
+2018-04-19T03:36:47.833Z - normal: Simulator:     listen: 
+2018-04-19T03:36:47.833Z - normal: Simulator:     debugger: none
+2018-04-19T03:36:47.834Z - normal: Simulator:     add searching path:
+2018-04-19T03:36:47.834Z - normal: Simulator: 
+2018-04-19T03:36:47.835Z - normal: Simulator: 
+2018-04-19T03:36:47.835Z - normal: Simulator: 
+2018-04-19T03:36:47.836Z - normal: Simulator: ------------------------------------------------
+2018-04-19T03:36:47.836Z - normal: Simulator: LOAD Js FILE: main.js
+2018-04-19T03:36:47.837Z - normal: Simulator: ------------------------------------------------
+2018-04-19T03:36:47.837Z - normal: Simulator: D/jswrapper (364): Initializing V8, version: 6.0.286.52
+2018-04-19T03:36:48.251Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-04-19T03:36:48.253Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-04-19T03:36:48.253Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-04-19T03:36:48.375Z - normal: Simulator: D/jswrapper (125): JS: Cocos2d-x-lite v1.8.2
+2018-04-19T03:36:48.602Z - normal: Simulator: iShow!
+2018-04-19T03:36:48.738Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 1.938000000000045ms
+2018-04-19T03:36:48.743Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.3109999999999786ms
+2018-04-19T03:36:48.743Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 0.15200000000004366ms
+2018-04-19T03:36:48.743Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.012999999999976808ms
+2018-04-19T03:36:48.765Z - normal: Simulator: D/jswrapper (125): JS: Activate: 9.646000000000015ms
+2018-04-19T03:36:49.373Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:36:49.373Z - normal: Simulator: STACK:
+2018-04-19T03:36:49.374Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:36:49.374Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB558) failed!
+2018-04-19T03:36:49.374Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:36:49.374Z - normal: Simulator: STACK:
+2018-04-19T03:36:49.374Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:36:49.374Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB240) failed!
+2018-04-19T03:36:49.973Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:36:49.974Z - normal: Simulator: STACK:
+2018-04-19T03:36:49.974Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:36:49.974Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB558) failed!
+2018-04-19T03:36:49.974Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:36:49.974Z - normal: Simulator: STACK:
+2018-04-19T03:36:49.974Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:36:49.975Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB240) failed!
+2018-04-19T03:36:50.572Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:36:50.573Z - normal: Simulator: STACK:
+2018-04-19T03:36:50.573Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:36:50.574Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB558) failed!
+2018-04-19T03:36:50.574Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:36:50.574Z - normal: Simulator: STACK:
+2018-04-19T03:36:50.574Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:36:50.574Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB240) failed!
+2018-04-19T03:36:51.173Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:36:51.173Z - normal: Simulator: STACK:
+2018-04-19T03:36:51.173Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:36:51.173Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB558) failed!
+2018-04-19T03:36:51.173Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:36:51.173Z - normal: Simulator: STACK:
+2018-04-19T03:36:51.174Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:36:51.174Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB240) failed!
+2018-04-19T03:36:51.773Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:36:51.773Z - normal: Simulator: STACK:
+2018-04-19T03:36:51.773Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:36:51.773Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB558) failed!
+2018-04-19T03:36:51.774Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:36:51.774Z - normal: Simulator: STACK:
+2018-04-19T03:36:51.775Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:36:51.775Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB240) failed!
+2018-04-19T03:36:52.373Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:36:52.373Z - normal: Simulator: STACK:
+2018-04-19T03:36:52.373Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:36:52.373Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB558) failed!
+2018-04-19T03:36:52.373Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:36:52.373Z - normal: Simulator: STACK:
+2018-04-19T03:36:52.374Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:36:52.374Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB240) failed!
+2018-04-19T03:36:52.973Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:36:52.973Z - normal: Simulator: STACK:
+2018-04-19T03:36:52.973Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:36:52.973Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB558) failed!
+2018-04-19T03:36:52.973Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:36:52.974Z - normal: Simulator: STACK:
+2018-04-19T03:36:52.974Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:36:52.974Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB240) failed!
+2018-04-19T03:36:53.573Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:36:53.574Z - normal: Simulator: STACK:
+2018-04-19T03:36:53.574Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:36:53.574Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB558) failed!
+2018-04-19T03:36:53.574Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:36:53.575Z - normal: Simulator: STACK:
+2018-04-19T03:36:53.575Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:36:53.578Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB240) failed!
+2018-04-19T03:36:54.173Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:36:54.173Z - normal: Simulator: STACK:
+2018-04-19T03:36:54.173Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:36:54.173Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB558) failed!
+2018-04-19T03:36:54.173Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:36:54.174Z - normal: Simulator: STACK:
+2018-04-19T03:36:54.174Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:36:54.174Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB240) failed!
+2018-04-19T03:36:54.773Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:36:54.773Z - normal: Simulator: STACK:
+2018-04-19T03:36:54.773Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:36:54.773Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB558) failed!
+2018-04-19T03:36:54.774Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:36:54.774Z - normal: Simulator: STACK:
+2018-04-19T03:36:54.774Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:36:54.774Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB240) failed!
+2018-04-19T03:36:55.373Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:36:55.373Z - normal: Simulator: STACK:
+2018-04-19T03:36:55.373Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:36:55.373Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB558) failed!
+2018-04-19T03:36:55.374Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:36:55.374Z - normal: Simulator: STACK:
+2018-04-19T03:36:55.374Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:36:55.374Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB240) failed!
+2018-04-19T03:36:55.973Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:36:55.973Z - normal: Simulator: STACK:
+2018-04-19T03:36:55.973Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:36:55.974Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB558) failed!
+2018-04-19T03:36:55.974Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:36:55.974Z - normal: Simulator: STACK:
+2018-04-19T03:36:55.974Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:36:55.974Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB240) failed!
+2018-04-19T03:36:56.573Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:36:56.573Z - normal: Simulator: STACK:
+2018-04-19T03:36:56.573Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:36:56.573Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB558) failed!
+2018-04-19T03:36:56.574Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:36:56.574Z - normal: Simulator: STACK:
+2018-04-19T03:36:56.574Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:36:56.574Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB240) failed!
+2018-04-19T03:36:57.173Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:36:57.173Z - normal: Simulator: STACK:
+2018-04-19T03:36:57.173Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:36:57.173Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB558) failed!
+2018-04-19T03:36:57.173Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:36:57.174Z - normal: Simulator: STACK:
+2018-04-19T03:36:57.174Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:36:57.174Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB240) failed!
+2018-04-19T03:36:57.773Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:36:57.773Z - normal: Simulator: STACK:
+2018-04-19T03:36:57.773Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:36:57.774Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB558) failed!
+2018-04-19T03:36:57.774Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:36:57.774Z - normal: Simulator: STACK:
+2018-04-19T03:36:57.775Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:36:57.775Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB240) failed!
+2018-04-19T03:36:58.373Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:36:58.373Z - normal: Simulator: STACK:
+2018-04-19T03:36:58.373Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:36:58.373Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB558) failed!
+2018-04-19T03:36:58.374Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:36:58.374Z - normal: Simulator: STACK:
+2018-04-19T03:36:58.374Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:36:58.374Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB240) failed!
+2018-04-19T03:36:58.973Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:36:58.973Z - normal: Simulator: STACK:
+2018-04-19T03:36:58.974Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:36:58.974Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB558) failed!
+2018-04-19T03:36:58.975Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:36:58.975Z - normal: Simulator: STACK:
+2018-04-19T03:36:58.975Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:36:58.975Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB240) failed!
+2018-04-19T03:36:59.573Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:36:59.573Z - normal: Simulator: STACK:
+2018-04-19T03:36:59.574Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:36:59.574Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB558) failed!
+2018-04-19T03:36:59.574Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:36:59.574Z - normal: Simulator: STACK:
+2018-04-19T03:36:59.575Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:36:59.575Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB240) failed!
+2018-04-19T03:37:00.173Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:37:00.173Z - normal: Simulator: STACK:
+2018-04-19T03:37:00.173Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:37:00.174Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB558) failed!
+2018-04-19T03:37:00.174Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:37:00.174Z - normal: Simulator: STACK:
+2018-04-19T03:37:00.174Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:37:00.174Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB240) failed!
+2018-04-19T03:37:00.773Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:37:00.773Z - normal: Simulator: STACK:
+2018-04-19T03:37:00.773Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:37:00.773Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB558) failed!
+2018-04-19T03:37:00.774Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:37:00.774Z - normal: Simulator: STACK:
+2018-04-19T03:37:00.774Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:37:00.774Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB240) failed!
+2018-04-19T03:37:01.373Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:37:01.373Z - normal: Simulator: STACK:
+2018-04-19T03:37:01.373Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:37:01.374Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB558) failed!
+2018-04-19T03:37:01.374Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:37:01.374Z - normal: Simulator: STACK:
+2018-04-19T03:37:01.374Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:37:01.375Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB240) failed!
+2018-04-19T03:37:01.972Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:37:01.973Z - normal: Simulator: STACK:
+2018-04-19T03:37:01.973Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:37:01.973Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB558) failed!
+2018-04-19T03:37:01.973Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:37:01.973Z - normal: Simulator: STACK:
+2018-04-19T03:37:01.973Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:37:01.974Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB240) failed!
+2018-04-19T03:37:02.572Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:37:02.573Z - normal: Simulator: STACK:
+2018-04-19T03:37:02.573Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:37:02.573Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB558) failed!
+2018-04-19T03:37:02.573Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:37:02.574Z - normal: Simulator: STACK:
+2018-04-19T03:37:02.574Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:37:02.574Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB240) failed!
+2018-04-19T03:37:03.173Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:37:03.173Z - normal: Simulator: STACK:
+2018-04-19T03:37:03.173Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:37:03.173Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB558) failed!
+2018-04-19T03:37:03.174Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:37:03.174Z - normal: Simulator: STACK:
+2018-04-19T03:37:03.174Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:37:03.174Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB240) failed!
+2018-04-19T03:37:03.773Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:37:03.773Z - normal: Simulator: STACK:
+2018-04-19T03:37:03.773Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:37:03.773Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB558) failed!
+2018-04-19T03:37:03.774Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:37:03.774Z - normal: Simulator: STACK:
+2018-04-19T03:37:03.774Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:37:03.774Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BCCB240) failed!
+2018-04-19T03:37:04.042Z - normal: Simulator: D/jswrapper (447): ScriptEngine::cleanup begin ...
+2018-04-19T03:37:04.042Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 82, all objects: 367
+2018-04-19T03:37:04.081Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 51, all objects: 336
+2018-04-19T03:37:04.082Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 51, all objects: 336
+2018-04-19T03:37:04.132Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 51, all objects: 336
+2018-04-19T03:37:04.133Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-04-19T03:37:04.176Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 0, all objects: 0
+2018-04-19T03:37:04.176Z - normal: Simulator: D/jswrapper (480): Starting to cleanup dragonbones object, count: 0
+2018-04-19T03:37:04.176Z - normal: Simulator: D/jswrapper (499): After first cleanup, dragonbones object remained count: 0
+2018-04-19T03:37:04.176Z - normal: Simulator: D/jswrapper (515): After second cleanup, dragonbones object remained count: 0
+2018-04-19T03:37:04.177Z - normal: Simulator: D/jswrapper (510): ScriptEngine::cleanup end ...
+2018-04-19T03:37:43.898Z - warn: Script attached to "star" in prefab "star.prefab" is missing or invalid. Detailed information:
+Node path: "star"
+Asset url: "db://assets/scripts/star.prefab"
+Script UUID: "3f34cb69-742e-477e-a46b-c03cbfa8bbb4"
+Class ID: "3f34ctpdC5HfqRrwDy/qLu0"
+
+2018-04-19T03:37:43.974Z - warn: The Asset used is missing. Detailed information:
+Missing uuid: "574efa15-421c-4508-85a9-8b484e8b3e36"
+
+2018-04-19T03:37:43.974Z - warn: The Asset used by component "Game" is missing. Detailed information:
+Node path: "Game"
+Missing uuid: "266b738e-a428-40be-bae2-5fcdde4b314d"
+
+2018-04-19T03:37:43.975Z - warn: The Asset used is missing. Detailed information:
+Missing uuid: "266b738e-a428-40be-bae2-5fcdde4b314d"
+
+2018-04-19T03:43:34.970Z - warn: The Asset used by component "cc.MissingScript" is missing. Detailed information:
+Node path: "Canvas"
+Missing uuid: "b4c4c929-4ee5-4351-a77e-16ecb03eee23"
+
+2018-04-19T03:43:34.975Z - warn: The Asset used is missing. Detailed information:
+Missing uuid: "b4c4c929-4ee5-4351-a77e-16ecb03eee23"
+
+2018-04-19T03:43:53.609Z - failed: Failed to drop asset 3f34cb69-742e-477e-a46b-c03cbfa8bbb4, message: Error: Can not find a component in the script "3f34cb69-742e-477e-a46b-c03cbfa8bbb4.json".
+    at C:\CocosCreator\resources\app.asar\editor\page\scene-utils\utils.js:1:865
+    at C:\CocosCreator\resources\engine\cocos2d\core\platform\CCAssetLibrary.js:130:25
+    at EventEmitter.ipcRenderer.on.n (C:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:4493)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2018-04-19T03:44:02.723Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-04-19T03:44:02.723Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-04-19T03:44:02.724Z - normal: Simulator: FRAME SCALE = 1.00
+2018-04-19T03:44:03.563Z - normal: Simulator: Ready for GLSL
+2018-04-19T03:44:03.563Z - normal: Simulator: Ready for OpenGL 2.0
+2018-04-19T03:44:03.564Z - normal: Simulator: 
+2018-04-19T03:44:03.564Z - normal: Simulator: {
+2018-04-19T03:44:03.564Z - normal: Simulator: 	gl.version: 4.5.0 NVIDIA 369.09
+2018-04-19T03:44:03.564Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-04-19T03:44:03.564Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-04-19T03:44:03.564Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-04-19T03:44:03.565Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-04-19T03:44:03.565Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-04-19T03:44:03.565Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-04-19T03:44:03.565Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-04-19T03:44:03.565Z - normal: Simulator: 	gl.vendor: NVIDIA Corporation
+2018-04-19T03:44:03.565Z - normal: Simulator: 	gl.renderer: GeForce GTX 950M/PCIe/SSE2
+2018-04-19T03:44:03.565Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-04-19T03:44:03.566Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-04-19T03:44:03.566Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-04-19T03:44:03.567Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-04-19T03:44:03.568Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-04-19T03:44:03.568Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-04-19T03:44:03.569Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-04-19T03:44:03.569Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-04-19T03:44:03.569Z - normal: Simulator: }
+2018-04-19T03:44:03.569Z - normal: Simulator: 
+2018-04-19T03:44:03.570Z - normal: Simulator: 
+2018-04-19T03:44:03.570Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-04-19T03:44:03.570Z - normal: Simulator: Project Config:
+2018-04-19T03:44:03.570Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-04-19T03:44:03.571Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-04-19T03:44:03.571Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-04-19T03:44:03.572Z - normal: Simulator:     frame size: 960 x 640
+2018-04-19T03:44:03.572Z - normal: Simulator:     frame scale: 1.00
+2018-04-19T03:44:03.572Z - normal: Simulator:     show console: NO
+2018-04-19T03:44:03.572Z - normal: Simulator:     write debug log: NO ()
+2018-04-19T03:44:03.573Z - normal: Simulator:     listen: 
+2018-04-19T03:44:03.573Z - normal: Simulator:     debugger: none
+2018-04-19T03:44:03.573Z - normal: Simulator:     add searching path:
+2018-04-19T03:44:03.574Z - normal: Simulator: 
+2018-04-19T03:44:03.574Z - normal: Simulator: 
+2018-04-19T03:44:03.574Z - normal: Simulator: 
+2018-04-19T03:44:03.574Z - normal: Simulator: ------------------------------------------------
+2018-04-19T03:44:03.574Z - normal: Simulator: LOAD Js FILE: main.js
+2018-04-19T03:44:03.575Z - normal: Simulator: ------------------------------------------------
+2018-04-19T03:44:03.575Z - normal: Simulator: D/jswrapper (364): Initializing V8, version: 6.0.286.52
+2018-04-19T03:44:04.026Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-04-19T03:44:04.029Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-04-19T03:44:04.029Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-04-19T03:44:04.148Z - normal: Simulator: D/jswrapper (125): JS: Cocos2d-x-lite v1.8.2
+2018-04-19T03:44:04.362Z - normal: Simulator: iShow!
+2018-04-19T03:44:04.420Z - normal: Simulator: D/jswrapper (144): JS: [WARN]: Can not find class '3f605bph5hHmZqj/p2Kv4KN'
+2018-04-19T03:44:04.498Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 1.3640000000000327ms
+2018-04-19T03:44:04.498Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.19599999999996953ms
+2018-04-19T03:44:04.499Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 0.13400000000001455ms
+2018-04-19T03:44:04.499Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.008999999999957708ms
+2018-04-19T03:44:04.518Z - normal: Simulator: D/jswrapper (144): JS: [WARN]: Script attached to 'Canvas' is missing or invalid.
+2018-04-19T03:44:04.518Z - normal: Simulator: D/jswrapper (125): JS: Activate: 10.25200000000001ms
+2018-04-19T03:44:05.129Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:44:05.129Z - normal: Simulator: STACK:
+2018-04-19T03:44:05.129Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:44:05.130Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BB2FB50) failed!
+2018-04-19T03:44:05.130Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:44:05.130Z - normal: Simulator: STACK:
+2018-04-19T03:44:05.130Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:44:05.130Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BB2FD08) failed!
+2018-04-19T03:44:05.729Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:44:05.729Z - normal: Simulator: STACK:
+2018-04-19T03:44:05.729Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:44:05.729Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BB2FB50) failed!
+2018-04-19T03:44:05.730Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'call' of undefined, location: src/jsb_polyfill.js:0:0
+2018-04-19T03:44:05.730Z - normal: Simulator: STACK:
+2018-04-19T03:44:05.730Z - normal: Simulator: [0]callback@src/jsb_polyfill.js:24711
+2018-04-19T03:44:05.730Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0BB2FD08) failed!
+2018-04-19T03:44:06.121Z - normal: Simulator: D/jswrapper (447): ScriptEngine::cleanup begin ...
+2018-04-19T03:44:06.121Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 69, all objects: 354
+2018-04-19T03:44:06.163Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 47, all objects: 332
+2018-04-19T03:44:06.163Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 47, all objects: 332
+2018-04-19T03:44:06.201Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 47, all objects: 332
+2018-04-19T03:44:06.209Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-04-19T03:44:06.248Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 0, all objects: 0
+2018-04-19T03:44:06.248Z - normal: Simulator: D/jswrapper (480): Starting to cleanup dragonbones object, count: 0
+2018-04-19T03:44:06.248Z - normal: Simulator: D/jswrapper (499): After first cleanup, dragonbones object remained count: 0
+2018-04-19T03:44:06.248Z - normal: Simulator: D/jswrapper (515): After second cleanup, dragonbones object remained count: 0
+2018-04-19T03:44:06.249Z - normal: Simulator: D/jswrapper (510): ScriptEngine::cleanup end ...
+2018-04-19T03:44:31.924Z - warn: Script attached to "Canvas" is missing or invalid. Detailed information:
+Node path: "Canvas"
+Script UUID: "3f6056e9-8798-4799-9aa3-fe9d8abf828d"
+Class ID: "3f605bph5hHmZqj/p2Kv4KN"
+
+2018-04-19T03:44:32.434Z - info: shutdown preview server
